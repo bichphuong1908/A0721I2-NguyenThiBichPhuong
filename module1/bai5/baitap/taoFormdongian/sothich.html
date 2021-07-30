@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tạo form đơn giản</title>
+</head>
+<body>
+<h1>SỞ THÍCH CỦA BẠN</h1>
+<form action="p" method="post">
+
+    <label>YourName <input type="tex" name="yourname" size="35"/></label><br>
+    <br>
+    <label>Email <input type="text" name="email" size="35"/></label><br>
+    <br>
+    <label>Sở thích</label>
+    <label1>
+        <input type="checkbox" name="hobby"/> Thể thao
+        <input type="checkbox" name="hobby"/> Âm nhạc
+        <input type="checkbox" name="hobby"/> Đọc sách </br>
+        <input type="checkbox" name="hobby"/> Lướt web
+        <input type="checkbox" name="hobby"/> Chơi game
+        <input type="checkbox" name="hobby"/> Điện ảnh </br>
+        <input type="checkbox" name="hobby"/> Du lịch</br></label1>
+<p>
+    <input type="button" name="btSubmit" value="Submit"/>
+    <input type="button" name="btReset" value="Reset"/>
+</p>
+</form>
+<style>
+    body {
+        border:20px solid aqua;
+        background-color: white;
+        width: 100%;
+        transition: all 0.3s;
+        padding: 5px;
+        margin-bottom: 25px;
+        box-sizing: border-box;
+    }
+    h1{
+        text-align: center;
+        background-color: red;
+        color: white;
+        font-size: px;
+    }
+    label{
+        color: blue;
+        table-layout: initial;
+        text-align: -webkit-right;
+        font-size: 20px;
+        margin-top: 10px;
+        box-sizing: border-box;
+    }
+    label1 {
+        color: red;
+        font-size: 20px;
+        text-align: -moz-left;
+    }
+
+</style>
+</body>
+</html>

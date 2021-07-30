@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tạo form lấy survey khách hàng</title>
+</head>
+<body>
+<from>
+  <h1>Market Research Survey</h1>
+  <p>Please take a few moments to complete this satisfaction survey.</p>
+  <hr>
+  <lebel><b>What is your age range?</b><br>
+    <select style="width: 200px;">
+      <option>18-24</option>
+      <option>25-34</option>
+      <option>35-50</option>
+      <option>50+</option>
+    </select>
+  </lebel><br>
+  <br>
+  <lebel><b>What is your yearly income range?</b><br>
+    <select style="width: 200px;">
+      <option>$0 - $25,000</option>
+      <option>$25,001 - $50,000</option>
+      <option>$50,001 - $100,000</option>
+      <option>$100,000+</option>
+    </select>
+  </lebel><br>
+  <br>
+  <lebel><b>Gender Identity</b><br>
+    <input type="radio" name="Gender Identity"> Male<br>
+    <input type="radio" name="Gender Identity"> Female<br>
+    <input type="radio" name="Gender Identity"> Nonbinary<br>
+    <input type="radio" name="Gender Identity"> Other<br>
+    <input style="right: 30px" type="text" name="Gender Identity" size="20"/>
+  </lebel><br>
+  <br>
+  <lebel><b>Which of the following products have your purchased in the last 2 months. Please check all that apply.</b><br>
+    <input type="checkbox" name="products"> Product 1<br>
+    <input type="checkbox" name="products"> Product 2<br>
+    <input type="checkbox" name="products"> Product 3<br>
+  </lebel><br>
+  <lebel><b>How often would you use our new product?</b><br>
+    <input type="radio" name="Daily"> Daily<br>
+    <input type="radio" name="Daily"> Weekly<br>
+    <input type="radio" name="Daily"> Monthly<br>
+  </lebel><br>
+  <lebel><b>What would you pay for the new product?</b><br>
+    $ <input type="text" name="Dollars" size="10"> .
+    <input type="text" name="Cents" size="2">
+      <pre>  Dollars         Cents</pre>
+  </lebel>
+  <lebel><b>What features would you like to see in the new product.</b><br>
+    <textarea>
+
+    </textarea>
+  </lebel><br>
+  <br>
+  <lebel>Please rate your level of agreement with the following statements.
+    <table border="1">
+      <tr>
+        <th></th>
+        <th>Strongly Disagree</th>
+        <th>Disagree</th>
+        <th>Agree</th>
+        <th>Strongly Agree</th>
+      </tr>
+      <tr>
+        <td><b>Our products are priced fairly.</b></td>
+        <th><input type="radio" name="fairly" ><br>1</th>
+        <th><input type="radio" name="fairly" ><br>2</th>
+        <th><input type="radio" name="fairly"><br>3</th>
+        <th><input type="radio" name="fairly"><br>4</th>
+      </tr>
+      <tr>
+        <td><b>Our products are high quality.</b></td>
+        <th><input type="radio" name="quality"><br>1</th>
+        <th><input type="radio" name="quality"><br>2</th>
+        <th><input type="radio" name="quality"><br>3</th>
+        <th><input type="radio" name="quality"><br>4</th>
+      </tr>
+      <tr>
+        <td><b>You would recommend our product to a friend or coworker.</b></td>
+        <th><input type="radio" name="coworker"><br>1</th>
+        <th><input type="radio" name="coworker"><br>2</th>
+        <th><input type="radio" name="coworker"><br>3</th>
+        <th><input type="radio" name="coworker"><br>4</th>
+      </tr>
+    </table>
+  </lebel><br>
+  <lebel><input type="button" name="btSubmit" value="Submit"/></lebel>
+
+
+
+
+</from>
+</body>
+</html>
