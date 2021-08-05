@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Diện tích hình tròn</title>
+</head>
+<body>
+<script>
+    let inputr;
+    const pi =3.14;
+
+    inputr = prompt("Nhập biến R:");
+
+    let r = parseInt(inputr);
+
+    if (r<=0){
+        alert("nhập r > 0");
+    } else {
+        let S = r * pi * r;
+        document.write("Diện tích hình tròn S = " + S);
+    }
+</script>
+</body>
+</html>
