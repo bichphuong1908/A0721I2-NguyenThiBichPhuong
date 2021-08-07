@@ -14,14 +14,14 @@
         </tr>
         <tr>
             <td><input id="A" type="number" name="Amount"/></td>
-            <td id="B">
-                <select>
+            <td>
+                <select id="B">
                     <option>VietNam</option>
                     <option>USD</option>
                 </select>
             </td>
-            <td id="C">
-                <select>
+            <td>
+                <select id="C">
                     <option>USD</option>
                     <option>VietNam</option>
                 </select>
@@ -36,9 +36,14 @@
         let ToCurency = document.getElementById("C")
 
         function Convert (){
-            let Convert;
-            Convert = parseFloat(Amount.value) *23.000;
-            document.getElementById("result").innerHTML = Convert;
+            let Convert
+            if(FromCurency.value == "VietNam" && ToCurency.value == "USD"){
+                Convert = parseFloat(Amount.value) /23.000;
+                document.getElementById("result").innerHTML = Convert;
+            } else {
+                Convert = parseFloat(Amount.value) *23.000;
+                document.getElementById("result").innerHTML = Convert;
+           }
         }
     </script>
 </from>
