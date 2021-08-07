@@ -40,7 +40,8 @@
             if(FromCurency.value == "VietNam" && ToCurency.value == "USD"){
                 Convert = parseFloat(Amount.value) /23.000;
                 document.getElementById("result").innerHTML = Convert;
-            } else {
+            }
+            if(FromCurency.value == "USD" && ToCurency.value == "VietNam"){
                 Convert = parseFloat(Amount.value) *23.000;
                 document.getElementById("result").innerHTML = Convert;
            }
