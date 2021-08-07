@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ứng dụng máy tính</title>
+</head>
+<body>
+<form>
+  <h1>Caculator</h1>
+  <input id="A" type="number" name="a"/>
+  <input id="B" type="number" name="b"/>
+  <br>
+  <br>
+  <input type="button" onclick="Cong()" name="addition" value="Addition(+)"/>
+    <input type="button" onclick="Tru()" name="subtraction" value="Subtraction(-)"/>
+    <input type="button" onclick="Nhan()" name="multiplication" value="Multiplication(x)"/>
+    <input type="button" onclick="Chia()" name="division" value="Division(/)"/>
+  <br>
+  <br>
+  <p id="result">Result</p>
+  <script>
+      let SoA = document.getElementById("A");
+      let SoB = document.getElementById("B");
+
+      function Cong() {
+        let addition;
+        addition = parseFloat(SoA.value) + parseFloat(SoB.value);
+        document.getElementById("result").innerHTML = addition;
+      }
+      function Tru(){
+        let subtraction;
+        subtraction = parseFloat(SoA.value) - parseFloat(SoB.value);
+        document.getElementById("result").innerHTML = subtraction;
+      }
+      function Nhan(){
+        let multiplication;
+        multiplication = parseFloat(SoA.value) * parseFloat(SoB.value);
+        document.getElementById("result").innerHTML = multiplication;
+      }
+      function Chia(){
+        let division;
+        division = parseFloat(SoA.value) / parseFloat(SoB.value);
+        document.getElementById("result").innerHTML = division;
+      }
+    </script>
+</form>
+</body>
+</html>
