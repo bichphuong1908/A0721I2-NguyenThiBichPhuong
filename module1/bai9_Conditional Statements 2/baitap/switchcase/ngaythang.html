@@ -8,13 +8,12 @@
 <from>
   <input id="A" type="number" name="month"/>
   <input type="button" onclick="tinhsongay()" name="tinhsongay" value="Tính số ngày"/>
-  <p id="result">month</p>
+  <p id="result"></p>
   <script>
-    let month = document.getElementById("A");
-
-    function tinhsongay(){
-      let tinhsongay;
-      switch (tinhsongay){
+      function tinhsongay(){
+    let month = document.getElementById("A").value;
+          month = parseInt(month);
+      switch (month){
         case 1:
         case 3:
         case 5:
@@ -22,19 +21,22 @@
         case 8:
         case 10:
         case 12:
-          alert("tháng có 31 ngày ");
-          break;
+            document.getElementById('result').innerHTML = 'tháng ' + month + " có 31 ngày";
+            break;
         case 4:
         case 6:
         case 9:
         case 11:
-          alert("tháng có 30 ngày ");
-          break;
+            document.getElementById('result').innerHTML = 'tháng ' + month + " có 30 ngày";
+            break;
         case 2:
-          alert("tháng có 28 ngày hoặc 29 ngày ");
-          break;
+            document.getElementById('result').innerHTML = 'tháng ' + month + " có 28 ngày hoặc 29 ngày";
+            break;
+          default:
+              //document.getElementById('result').innerHTML = 'tháng ' + month + " không hợp lệ";
+              alert("Vui lòng nhập tháng nhỏ hơn 12");
+              break;
       }
-      document.getElementById("result").innerHTML= tinhsongay;
     }
   </script>
 </from>
