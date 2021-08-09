@@ -9,11 +9,11 @@
     <table>
         <tr>
             <th>Amount</th>
-            <th>From Curency</th>
+            <th>From Currency</th>
             <th>To Currency</th>
         </tr>
         <tr>
-            <td><input id="A" type="number" name="Amount"/></td>
+            <td><input id="A" type="number" name="amount"/></td>
             <td>
                 <select id="B">
                     <option>VietNam</option>
@@ -26,24 +26,24 @@
                     <option>VietNam</option>
                 </select>
             </td>
-            <td><input type="button" onclick="Convert()" name="Convert" value="Convert"/></td>
+            <td><input type="button" onclick="convert()" name="convert" value="Convert"/></td>
         </tr>
     </table>
     <p id="result">Result :</p>
     <script>
-        let Amount = document.getElementById("A");
-        let FromCurency = document.getElementById("B");
-        let ToCurency = document.getElementById("C")
+        let amount = document.getElementById("A");
+        let fromCurrency = document.getElementById("B");
+        let toCurrency = document.getElementById("C")
 
-        function Convert (){
-            let Convert
-            if(FromCurency.value == "VietNam" && ToCurency.value == "USD"){
-                Convert = parseFloat(Amount.value) /23.000;
-                document.getElementById("result").innerHTML = Convert;
+        function convert (){
+            let convert;
+            if(fromCurrency.value == "VietNam" && toCurrency.value == "USD"){
+                convert = parseFloat(amount.value) /23.000;
+                document.getElementById("result").innerHTML = convert;
             }
-            if(FromCurency.value == "USD" && ToCurency.value == "VietNam"){
-                Convert = parseFloat(Amount.value) *23.000;
-                document.getElementById("result").innerHTML = Convert;
+            if(fromCurrency.value == "USD" && toCurrency.value == "VietNam"){
+                convert = parseFloat(amount.value) *23.000;
+                document.getElementById("result").innerHTML = convert;
            }
         }
     </script>

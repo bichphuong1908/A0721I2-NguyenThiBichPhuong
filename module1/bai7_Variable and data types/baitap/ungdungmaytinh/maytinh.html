@@ -19,27 +19,27 @@
   <br>
   <p id="result">Result</p>
   <script>
-      let SoA = document.getElementById("A");
-      let SoB = document.getElementById("B");
+      let soA = document.getElementById("A");
+      let soB = document.getElementById("B");
 
       function Cong() {
         let addition;
-        addition = parseFloat(SoA.value) + parseFloat(SoB.value);
+        addition = parseFloat(soA.value) + parseFloat(soB.value);
         document.getElementById("result").innerHTML = addition;
       }
       function Tru(){
         let subtraction;
-        subtraction = parseFloat(SoA.value) - parseFloat(SoB.value);
+        subtraction = parseFloat(soA.value) - parseFloat(soB.value);
         document.getElementById("result").innerHTML = subtraction;
       }
       function Nhan(){
         let multiplication;
-        multiplication = parseFloat(SoA.value) * parseFloat(SoB.value);
+        multiplication = parseFloat(soA.value) * parseFloat(soB.value);
         document.getElementById("result").innerHTML = multiplication;
       }
       function Chia(){
         let division;
-        division = parseFloat(SoA.value) / parseFloat(SoB.value);
+        division = parseFloat(soA.value) / parseFloat(soB.value);
         document.getElementById("result").innerHTML = division;
       }
     </script>
