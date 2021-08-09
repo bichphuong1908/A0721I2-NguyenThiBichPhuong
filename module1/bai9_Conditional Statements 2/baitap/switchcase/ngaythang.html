@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tính số ngày của tháng</title>
+</head>
+<body>
+<from>
+  <input id="A" type="number" name="month"/>
+  <input type="button" onclick="tinhsongay()" name="tinhsongay" value="Tính số ngày"/>
+  <p id="result">month</p>
+  <script>
+    let month = document.getElementById("A");
+
+    function tinhsongay(){
+      let tinhsongay;
+      switch (tinhsongay){
+        case 1:
+        case 3:
+        case 5:
+        case 7:
+        case 8:
+        case 10:
+        case 12:
+          alert("tháng có 31 ngày ");
+          break;
+        case 4:
+        case 6:
+        case 9:
+        case 11:
+          alert("tháng có 30 ngày ");
+          break;
+        case 2:
+          alert("tháng có 28 ngày hoặc 29 ngày ");
+          break;
+      }
+      document.getElementById("result").innerHTML= tinhsongay;
+    }
+  </script>
+</from>
+</body>
+</html>
