@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DoYouLoveMe</title>
+  <style>
+    #loveme {
+      position: absolute;
+      left: 180px;
+      top: 180px;
+      font-size: 50px;
+    }
+    input {
+      width: 100px;
+      font-size: 30px;
+      color: white;
+      padding: 10px 10px;
+      text-align: center;
+    }
+    #yes {
+      position: absolute;
+      left: 280px;
+      top: 280px;
+      color: black;
+    }
+    #no {
+      position: absolute;
+      left: 400px;
+      top: 280px;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+<h1 id="loveme">Do you love me?</h1>
+<canvas id="canvas"></canvas>
+<input type="button" id="yes" value="Yes" onclick="yesClick()" />
+<input type="button" id="no" value="No" onmouseover="noHover()" />
+<script>
+  function yesClick() {
+    alert("Yes. You are right ❤");
+  }
+  function noHover() {
+    let x = Math.floor(Math.random() * window.innerWidth);
+    let y = Math.floor(Math.random() * window.innerHeight);
+    document.getElementById("no").style.left = x + "px";
+    document.getElementById("no").style.top = y + "px";
+  }
+</script>
+</body>
+</html>
