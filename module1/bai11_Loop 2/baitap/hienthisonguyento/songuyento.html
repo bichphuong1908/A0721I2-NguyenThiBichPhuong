@@ -1,10 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Hiển thị các số nguyên tố</title>
 </head>
 <body>
-$END$
+<script>
+
+        // let n = prompt("nhập số lượng số nguyên tố cần in ra");
+        // let count=0;
+        // let num=2;
+        // let result ="";
+        // while (count<n){
+        //     // tìm số nguyên tố. khi nào đủ 20 số dừng lại
+        //     let flag =true;
+        //     if (num<2){
+        //         flag =false;
+        //     }else {
+        //         for (let i =2; i<num;i++){
+        //             if (num%i==0){
+        //                 flag =false;
+        //                 break;
+        //             }
+        //         }
+        //     }
+        //     if (flag){
+        //         result+= num+","
+        //         count++
+        //     }
+        //     num++;
+        // }
+        // alert(result);
+
+
+// cách 2 sử sụng function;
+        let n = prompt(" nhâp vào số lượng số nguyên tố cần in");
+        let count =0;
+        let num=2;
+        let result ="";
+        while (count<n){
+        if (ktSNT(num)==true){
+        result+=num+",";
+        count++;
+    }
+        num++;
+    }
+        alert(result);
+
+// viết hàm kiểm tra một số có phải là số nguyên tố không
+        function ktSNT(num){
+        let flag =true;
+        if (num<2){
+        flag =false;
+    }else {
+        for (let i =2; i<num;i++){
+        if (num%i==0){
+        flag =false;
+        break;
+    }
+    }
+    }
+        return flag;
+    }
+
+
+</script>
 </body>
 </html>
