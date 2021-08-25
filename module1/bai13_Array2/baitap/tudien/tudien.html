@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ điển</title>
+</head>
+<body>
+<form>
+    <p>Dịch tiếng Anh</p>
+    <input type="text" id="text"/>
+    <input type="button" id="btnAdd" value="Add" onclick="add();"/>
+    <input type="button" id="btnDich" value="Dịch" onclick="dich();"/>
+    <div id="result"></div>
+</form>
+<script>
+  let m1 = ["book", "bag", "pen"];
+  let m2 = ["sách", "cặp", "bút"];
+  function add() {
+      m1 = document.getElementById("text").value;
+      alert( m1 + " Added at ");
+      m1++;
+      document.getElementById("text").value = "";
+  }
+
+</script>
+</body>
+</html>
