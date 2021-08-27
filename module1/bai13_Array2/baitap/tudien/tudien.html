@@ -8,20 +8,30 @@
 <form>
     <p>Dịch tiếng Anh</p>
     <input type="text" id="text"/>
-    <input type="button" id="btnAdd" value="Add" onclick="add();"/>
     <input type="button" id="btnDich" value="Dịch" onclick="dich();"/>
-    <div id="result"></div>
+    <p id="viet"/>
 </form>
 <script>
-  let m1 = ["book", "bag", "pen"];
-  let m2 = ["sách", "cặp", "bút"];
-  function add() {
-      m1 = document.getElementById("text").value;
-      alert( m1 + " Added at ");
-      m1++;
-      document.getElementById("text").value = "";
-  }
+    let count = 0;
+    let anh = document.getElementById("text");
+    let mTA = ["book", "bag", "pen", "dog"];
+    let mTV = ["sách", "cặp", "bút", "con chó"];
+    document.write("Chỉ có thể dịch được các từ [" + mTA.join(" ") + "]")
 
+    function dich() {
+        for (let i = 0; i < mTA.length; i++) {
+            if (mTA[i] === text.value) {
+                count = 0;
+                document.getElementById("viet").innerHTML = mTV[i];
+                break;
+            } else {
+                count++
+            }
+        }
+        if (count != 0) {
+            alert("loi");
+        }
+    }
 </script>
 </body>
 </html>
