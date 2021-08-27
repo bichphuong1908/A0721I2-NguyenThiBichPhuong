@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Luyện tập mảng 02</title>
+</head>
+<body>
+<script>
+  let a = ["Hello Phương"];
+  let b = prompt("nhập chuỗi: ");
+  let flag= false;
+  for (let i=0; i<a.length;i++){
+      if (b==a[i]){
+          flag= true;
+          break;
+      }
+  }
+  if (flag){
+      alert("2 chuỗi giống nhau");
+  }else {
+      alert("2 chuỗi không giống nhau");
+  }
+</script>
+</body>
+</html>
