@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quan Ly San Pham</title>
+</head>
+<body>
+<h3>Add New Product</h3>
+<input id="nameProduct" type="text" placeholder="Ten san pham">
+<button onclick="themMoi()" style="background-color: limegreen">Them</button>
+<h3>
+    Display All Product
+</h3>
+<div id="tableProduct">
+
+</div>
+
+
+<script>
+    let danhSachSanPham = ["Apple", "Samsung", "Xiaomi"];
+    hienThiListSanPham();
+
+    function hienThiListSanPham() {
+        let result = "";
+        result += "<table id='tableProduct'><th>Ten san pham<td></td><td></td><td colspan='2'>" + danhSachSanPham.length + " products</td></th>"
+        for (let index = 0; index < danhSachSanPham.length; index++) {
+            result += "<tr><td>" + danhSachSanPham[index] + "</td>" +
+                "<td><button onclick='edit(" + index + ")'>Edit</button></td>" +
+                "<td><button onclick='deleteProduct(" + index + ")'>Delete</button></td>" +
+                "</tr>";
+        }
+        result += "</table>";
+        document.getElementById("tableProduct").innerHTML = result;
+    }
+
+    function themMoi() {
+        let sanPham = document.getElementById("nameProduct");
+        if (sanPham.value === "") {
+            alert("Vui long dien ten san pham");
+        } else {
+            danhSachSanPham.push(sanPham.value);
+        }
+        // removeTable();
+        hienThiListSanPham();
+    }
+
+    function edit(temp) {
+        let result  = "";
+        result += "<table id='tableProduct'><th>Ten san pham<td></td><td colspan='2'>" + danhSachSanPham.length + " products</td></th>";
+        for (let index = 0; index < danhSachSanPham.length; index++) {
+            if (temp === index) {
+                result += "<tr><td><input id='edit' type='text' value='" + danhSachSanPham[index] + "'>"+ "</td>" +
+                    "<td><button onclick='update(" + index + ")'>Update</button></td>" +
+                    "<td><button onclick='deleteProduct(" + index + ")'>Delete</button></td>" +
+                    "</tr>";
+            }else {
+                result += "<tr><td>" + danhSachSanPham[index] + "</td>" +
+                    "<td><button onclick='edit(" + index + ")'>Edit</button></td>" +
+                    "<td><button onclick='deleteProduct(" + index + ")'>Delete</button></td>" +
+                    "</tr>";
+            }
+        }
+        result += "</table>";
+        document.getElementById("tableProduct").innerHTML = result;
+
+    }
+
+    function update(temp) {
+        let tenMoi = document.getElementById("edit").value;
+        for (let index = 0; index < danhSachSanPham.length; index++){
+            if(temp === index){
+                danhSachSanPham[index] = tenMoi;
+            }
+        }
+        hienThiListSanPham();
+    }
+
+    function deleteProduct(temp){
+        if (confirm("Chac chan muon xoa san pham "+ danhSachSanPham[temp] + " ra khoi danh sach san pham?")){
+            danhSachSanPham.splice(temp,1);
+        }
+        hienThiListSanPham();
+    }
+    // function removeTable() {
+    //     let table = document.getElementById("tableProduct");
+    //     table.remove();
+    // }
+</script>
+</body>
+</html>
