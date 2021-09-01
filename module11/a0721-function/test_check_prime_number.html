@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        // checkNumber = 5
+        // i = 1 => count = 1
+        // i = 2 => count = 1
+        // i = 3 => count = 1
+        // i = 4 => count = 1
+        // i = 5 => count = 2
+        function isPrimeNumber(checkNumber) { // checkNumber: tham so (parameter)
+            let count = 0;
+
+            for (let i = 1; i <= checkNumber; i++) {
+                if (checkNumber % i === 0) {
+                    count++;
+                }
+            }
+
+            if (count === 2) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+        // function isPrimeNumberNoReturn(checkNumber) { // checkNumber: tham so (parameter)
+        //     let count = 0;
+        //
+        //     for (let i = 1; i <= checkNumber; i++) {
+        //         if (checkNumber % i === 0) {
+        //             count++;
+        //         }
+        //     }
+        //
+        //     if (count === 2) {
+        //         console.log('Prime number (function)')
+        //     } else {
+        //         console.log('Not prime number (function)')
+        //     }
+        // }
+
+        let numberUser = parseInt(prompt('Please input number: '));
+        if (isPrimeNumber(numberUser)) { // numberUser: doi so (argument)
+            console.log('Prime number');
+        } else {
+            console.log('Not prime number');
+        }
+        // isPrimeNumberNoReturn(numberUser);
+    </script>
+</body>
+</html>

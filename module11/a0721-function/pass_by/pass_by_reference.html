@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function changeValuePassByReference(funcNum) { // tham so
+        funcNum[0] = 1;
+    }
+
+    let num = [24];
+    changeValuePassByReference(num); // doi so
+    console.log(num);
+
+    // Nhat Huy: 1
+    // Thanh Dong: index 0 = 1
+    // Cong Thinh: 24
+
+</script>
+</body>
+</html>
