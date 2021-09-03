@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    //Xây dựng chương trình sử dụng đệ quy để kiểm tra một từ có phải là từ đối xứng không.
+    // Phương thức kiểm tra chuỗi đối xứng có nguyên mẫu như sau:
+    let string = prompt("Nhập vô chuỗi kiểm tra");
+    // 1 2 3 4 3 2 1
+    // function isPalindrome(start, end, string){
+    //     if (start >= end){
+    //         return true;
+    //     }
+    //     if (string[start] !== string[end]){
+    //         return false;
+    //     }
+    //     return isPalindrome(start + 1, end - 1, string);
+    // }
+    // alert(isPalindrome(0,string.length - 1,string));
+
+
+    // 1 2 3 4 3 2 1
+    // function isPalindrome(string){
+    //     for (let i = 0; i < string.length / 2; i++){
+    //         if (string[i] !== string[string.length-1-i]){
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
+    // alert(isPalindrome(string));
+
+    function isPalindrome(string){
+        // 12321
+        var array = string.split("");
+        //[1,2,3,2,2] reverse [2,2,3,2,1]
+        for (let i = 0; i < array.length / 2; i++){ //2
+            if (array[i] !== array.reverse()[i]){ //2 ?== //2
+                return false;
+            }
+        }
+        return true;
+    }
+    alert(isPalindrome(string));
+
+</script>
+</body>
+</html>
