@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Luyện tập tạo và sử dụng hàm 02</title>
+</head>
+<body>
+<script>
+  function songuyen(a, b, c){
+    let min = a;
+    if(min>b){
+      min = b;
+    }
+    if(min>c){
+      min=c;
+    }
+    alert(min);
+  }
+  let a = parseInt(prompt("Nhap so thu nhat: "));
+  let b = parseInt(prompt("Nhap so thu hai: "));
+  let c = parseInt(prompt("Nhap so thu ba: "));
+  min = songuyen(a,b,c);
+</script>
+</body>
+</html>
