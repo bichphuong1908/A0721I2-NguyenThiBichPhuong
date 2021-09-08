@@ -7,21 +7,21 @@
 <body>
 <script>
   class Temperature{
-      constructor(c) {
-          this.tempC = c;
+      constructor() {
+          this.tempC =25;
       }
-      convertCtoF(tempF){
-          this.tempF = (this.tempC*1.8)+32;
-          alert(tempF);
+      convertCtoF(){
+          this.tempC = (25*1.8)+32;
+          console.log(tempC);
       }
-      convertCtoK(temK){
-          this.tempK = (this.tempC + 273);
-          alert(tempK);
+      convertCtoK(){
+          this.tempC = (25 + 273);
+          console.log(tempC);
       }
   }
-  let tempC =  new Temperature (25);
-  tempC.convertCtoF();
-  tempC.convertCtoK();
+  let tempC = new Temperature();
+  tempC.convertCtoF(tempC);
+  tempC.convertCtoK(tempC);
 
 </script>
 </body>
