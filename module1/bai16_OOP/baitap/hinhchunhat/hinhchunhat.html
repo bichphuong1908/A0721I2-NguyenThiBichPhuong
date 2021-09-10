@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hình chữ nhật</title>
+</head>
+<body>
+<script>
+  class Rectangle {
+    constructor(length, width) {
+      this.length = length;
+      this.width = width;
+    }
+    getLength = function (){
+        return length;
+    }
+    getWidth = function () {
+        return width;
+    }
+    getArea = function (){
+        return this.length * this.width;
+    }
+    getPerimeter = function (){
+        return (this.length + this.width)*2;
+    }
+    setlength = function (length){
+        this.length = length;
+    }
+    setwidth = function (width){
+        this.width = width;
+    }
+  }
+
+  let rectangle = new Rectangle(20, 10);
+  document.write(rectangle.length + "</br>");
+  document.write(rectangle.width + "</br>");
+  document.write("Diện tích: " + rectangle.getArea() + "</br>");
+  document.write("Chu vi: " + rectangle.getPerimeter() + "</br>");
+
+
+  rectangle.setlength(50);
+  rectangle.setwidth(23);
+  document.write(rectangle.length + "</br>");
+  document.write(rectangle.width + "</br>");
+  document.write("Diện tích: " + rectangle.getArea() + "</br>");
+  document.write("Chu vi: " + rectangle.getPerimeter() + "</br>");
+</script>
+</body>
+</html>

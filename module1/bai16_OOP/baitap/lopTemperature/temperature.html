@@ -7,21 +7,31 @@
 <body>
 <script>
   class Temperature{
-      constructor() {
-          this.tempC =25;
+      constructor(tempC) {
+          this.tempC = tempC;
       }
-      convertCtoF(){
-          this.tempC = (25*1.8)+32;
-          console.log(tempC);
+      gettempC = function (){
+          return tempC;
       }
-      convertCtoK(){
-          this.tempC = (25 + 273);
-          console.log(tempC);
+      getconvertCtoF = function (){
+          return (this.tempC*1.8)+32;
+      }
+      getconvertCtoK = function (){
+         return (this.tempC + 273);
+      }
+      settempC = function (tempC){
+          this.tempC = tempC;
       }
   }
-  let tempC = new Temperature();
-  tempC.convertCtoF(tempC);
-  tempC.convertCtoK(tempC);
+  let temperature = new Temperature(25);
+  document.write("Nhiệt độ F: " + temperature.getconvertCtoF() + "</br>");
+  document.write("Nhiệt độ K: " + temperature.getconvertCtoK() + "</br>");
+
+  temperature.settempC(24);
+  document.write("Nhiệt độ F: " + temperature.getconvertCtoF() + "</br>");
+  document.write("Nhiệt độ K: " + temperature.getconvertCtoK() + "</br>");
+
+
 
 </script>
 </body>

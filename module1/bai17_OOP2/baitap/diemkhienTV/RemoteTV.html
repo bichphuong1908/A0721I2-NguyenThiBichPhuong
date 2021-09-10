@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+class Remote {
+    constructor() {
+        this.code = 0;
+        this.volume = 0;
+        this.status = false;
+    }
+    setCode(code){
+        this.code = code;
+    }
+    setVolume(volume){
+        this.volume = volume;
+    }
+    setStatus(status){
+        this.status = status;
+    }
+
+
+}
+class Television {
+    constructor(channel, volume, status) {
+        this.channel = channel;
+        this.volume = volume;
+        this.status = status;
+    }
+    setChannel(remote){
+        this.channel = remote.code;
+    }
+    setVolume(volume){
+        this.volume += volume;
+    }
+    turnOn_TurnOff(){
+        this.status = !this.status;
+    }
+    checkPower(){
+        if (this.status){
+            console.log("TV đã bật")
+        } else console.log("TV đã tắt ")
+    }
+}
+let tiviNhaPhuong = new Television(1,30,false);
+let remoteNhaPhuong = new Remote();
+tiviNhaPhuong.checkPower();
+tiviNhaPhuong.turnOn_TurnOff();
+tiviNhaPhuong.checkPower();
+tiviNhaPhuong.channel = 7;
+console.log("Hiện tại đang ở kênh: "+ tiviNhaPhuong.channel);
+remoteNhaPhuong.setCode(3);
+tiviNhaPhuong.channel = remoteNhaPhuong.code;
+console.log("Hiện tại đang ở kênh: "+ tiviNhaPhuong.channel);
+console.log("Volume hiện tại của tivi: "+ tiviNhaPhuong.volume);
+remoteNhaPhuong.setVolume(2);
+tiviNhaPhuong.setVolume(remoteNhaPhuong.volume);
+console.log("Volume hiện tại của tivi: "+ tiviNhaPhuong.volume);
+
+console.log(remoteNhaPhuong);
+console.log(remoteNhaPhuong.volume);
+
+</script>
+</body>
+</html>
