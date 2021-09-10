@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Vẽ hình chữ nhật</title>
 </head>
 <body>
-$END$
+<script>
+    for (let k = 0; k < 4; k++) {
+        for (let i = 0; i < 5; i++) {
+            if (k === 0 || k === 3 || i ===0 || i === 4){
+                document.writeln("*");
+            }else {
+                document.writeln("&nbsp&nbsp");
+            }
+        }
+        document.writeln("<br>");
+    }
+</script>
 </body>
 </html>

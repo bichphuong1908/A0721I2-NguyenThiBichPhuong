@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 1</title>
+</head>
+<body>
+<script>
+    let thuesuat;
+  let luong = prompt("nhập số lương: ");
+  let sothue, luongrong;
+
+  if(luong>=15){
+      sothue=luong*0.2;
+      thuesuat=20;
+      alert("thuế phải nộp là 20%");
+  } else if(luong>=7){
+      sothue=luong*0.1;
+      thuesuat=10;
+      alert("thuế phải nộp là 10%");
+  }else {
+      sothue=luong*0.05;
+      thuesuat=5;
+      alert("thuế phải nộp là 5%");
+  }
+  luongrong = luong-sothue;
+  document.write("Tiền lương thực nhận: " + luongrong);
+</script>
+</body>
+</html>

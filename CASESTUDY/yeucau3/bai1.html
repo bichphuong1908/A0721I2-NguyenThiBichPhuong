@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 3</title>
+</head>
+<body>
+<script>
+    let n = prompt("Nhập số lượng mảng a: ");
+    let a = Array();
+    let b = Array();
+    let number;
+    let sum = 0;
+    for (let i = 0; i < n; i++) {
+        number = parseInt(prompt("Nhập phần tử thứ " + i));
+        a.push(number);
+        sum += a[i];
+        b.push(sum);
+    }
+    alert("prefix sums của mảng a: " + b);
+</script>
+</body>
+</html>
