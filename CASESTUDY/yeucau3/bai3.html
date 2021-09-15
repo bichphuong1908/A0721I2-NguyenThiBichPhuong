@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 3</title>
+</head>
+<body>
+<script>
+    function maxFraction(num, den) {
+        let max = {
+            num: num[0],
+            den: den[0],
+            index: 0,
+        };
+
+        for (let i = 1; i < num.length; i++) {
+            let a = max.num * den[i] - max.den * num[i];
+            if (a < 0) {
+                max.num = a[i];
+                max.den = den[i];
+                max.index = i;
+            }
+        }
+        return max.index;
+    }
+    document.write("Chỉ số là: " + maxFraction([5, 2, 5], [6, 3, 4]));
+</script>
+</body>
+</html>
