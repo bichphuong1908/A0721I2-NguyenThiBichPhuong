@@ -2,26 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bài 1</title>
+    <title>Bài 3</title>
 </head>
 <body>
 <script>
     let m = parseInt(prompt("Nhập m"));
     let n = parseInt(prompt("Nhập n"));
-    let b = 0;
+    let max=0;
+    let min=100;
     let a = Array();
     for( let i=0;i<m;i++){
         a[i] = Array()
         for ( let j=0; j<n;j++) {
             a[i][j] = Math.floor(Math.random() * 99);
             document.writeln(a[i][j] + " ");
-            if (a[i][j] % 2 === 0) {
-                b += a[i][j];
+            if (a[i][j] >max) {
+                max= a[i][j];
+            }
+            if (a[i][j] <min) {
+                min= a[i][j];
             }
         }
         document.writeln("<br>");
     }
-    document.writeln("tong các số chẵn là: " +b);
+    document.writeln("số lớn nhất " + max + "<br>");
+    document.writeln("số nhỏ nhất " + min);
 </script>
 </body>
 </html>
