@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adam và Eva</title>
+</head>
+<body>
+<script>
+    let Apple = function () {
+        this.setPiece = function (piece) {
+            this.piece = piece;
+        };
+        this.getPiece = function () {
+            return this.piece;
+        };
+        this.decreasePiece = function () {
+            if (this.piece > 0)
+                return this.piece --;
+            else return this.piece=0;
+        };
+    };
+    let Human = function (name,say,gender,weight) {
+        this.name=name;
+        this.say=say;
+        this.gender=gender;
+        this.weight=weight;
+
+        this.getWeight=function () {
+            return this.weight;
+        };
+        this.setApple = function (apple) {
+            this.apple=apple;
+        };
+        this.getAppleInf = function () {
+            return this.apple.getPiece();
+        };
+        this.biteShot = function () {
+            if (this.status){
+                this.weight ++;
+                document.write(this.name+ this.say + '<br>');
+            }
+        };
+        this.oneShot=function () {
+            this.status = true;
+            return this.apple.decreasePiece();
+        };
+    };
+
+    let adam = new Human('Adam',' say "hello"', 'Male',21);
+    let eva = new Human('Eva',' say "hello"','Femal',23);
+    let apple = new Apple();
+    apple.setPiece(5);
+    adam.setApple(apple);
+    eva.setApple(apple);
+
+    for (let i=0;i<3;i++){
+        eva.oneShot();
+        eva.biteShot();
+        document.write('Weight of Eva: '+ eva.getWeight()+'.'+' The remain of the apple: '+eva.getAppleInf()+'<br>');
+        adam.oneShot();
+        adam.biteShot();
+        document.write('Weight of Adam: '+ adam.getWeight()+'.'+' The remain of the apple: '+adam.getAppleInf()+'<br>');
+    }
+
+</script>
+</body>
+</html>
