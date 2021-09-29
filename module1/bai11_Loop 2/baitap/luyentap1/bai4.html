@@ -1,10 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Fibonacci chia hết cho 5</title>
 </head>
 <body>
-$END$
+<script>
+  let f0=1,f1=1;
+  let f=f0+f1;
+  let fibonacci=f0+"  "+f1+" "+f+" ";
+
+  for (let i=0; i<17;i++){
+    f0=f1;
+    f1=f;
+    f=f0+f1;
+    fibonacci+=f+" ";
+  }
+  document.write("Dãy Fibonacci là "+fibonacci+"<br>")
+  //if(f){
+  //    f%5  0;
+  //    document.write(fibonacci);
+  //}
+</script>
 </body>
 </html>

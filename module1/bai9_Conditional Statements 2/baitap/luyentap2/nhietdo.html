@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi nhiệt độ</title>
 </head>
 <body>
-$END$
+<script>
+    let lc = prompt("nhập lựa chọn:");
+
+    if(lc == 1){
+        let c = prompt("nhập nhiệt độ C:");
+        let f = (9 * c)/5 + 32;
+        document.write("Nhiệt độ chuyển F:" + f);
+    }else{
+        alert("nhập lại lựa chon:");
+    }
+
+
+</script>
 </body>
 </html>

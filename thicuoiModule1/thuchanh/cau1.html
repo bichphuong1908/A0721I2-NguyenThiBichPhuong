@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Câu 1</title>
+</head>
+<body>
+<script>
+    let n = parseInt(prompt("nhập số phần tử"));
+    let array = [];
+    let index = 0;
+    let total = 0;
+    let count = 0;
+    for (let i = 0; i < n; i++) {
+        array.push(parseInt(prompt("nhập n phần tử vào mảng")));
+        if (array[i]%2 > 0 && i%2 == 0) {
+            total = total+ array[i];
+            index = array[i];
+            count++;
+        }
+        console.log("số lẻ " + index);
+    }
+    console.log("trung bình cộng là " + total / count);
+    console.log(array);
+
+</script>
+</body>
+</html>

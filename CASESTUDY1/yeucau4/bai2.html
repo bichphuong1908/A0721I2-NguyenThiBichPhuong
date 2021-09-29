@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 2</title>
+</head>
+<body>
+<script>
+  /*function differentSymbolsNaive(s) {
+      return s.split('').filter((el,i,self)=>i===self.indexOf(el)).length
+  }
+  let s = "cabca";
+  document.write(differentSymbolsNaive(s));*/
+
+  function differentSymbolsNaive(str){
+      let arr = [];
+      for(let i=0; i<str.length; i++){
+          if(arr.indexOf(str.charAt(i))===-1){
+              arr.push(str.charAt(i));
+          }
+      }
+      return arr.length;
+  }
+  let str = prompt("nhập vào xâu ký tự");
+  alert("có " + differentSymbolsNaive(str) + " ký tự");
+</script>
+</body>
+</html>
