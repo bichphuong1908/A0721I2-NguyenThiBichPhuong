@@ -1,4 +1,4 @@
-package ss1_introduction_to_java.thuchanh.demo;
+package demo.demo;
 
 public class demo {
     public static void main(String[] args) {
