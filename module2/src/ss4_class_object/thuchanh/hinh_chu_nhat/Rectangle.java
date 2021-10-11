@@ -1,4 +1,4 @@
-package ss4_class_object.thuchanh;
+package ss4_class_object.thuchanh.hinh_chu_nhat;
 
 public class Rectangle {
     // khai báo thuộc tính

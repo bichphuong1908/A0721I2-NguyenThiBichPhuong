@@ -1,4 +1,4 @@
-package ss4_class_object.thuchanh;
+package ss4_class_object.thuchanh.hinh_chu_nhat;
 
 import java.util.Scanner;
 

@@ -1,7 +1,5 @@
 package ss5_static_ac.demo1;
 
-import java.util.Arrays;
-
 public class Text {
     public static void main(String[] args) {
         Student student1 = new Student(1,"chanh1","DN");
