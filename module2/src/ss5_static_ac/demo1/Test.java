@@ -1,6 +1,6 @@
 package ss5_static_ac.demo1;
 
-public class Text {
+public class Test {
     public static void main(String[] args) {
         Student student1 = new Student(1,"chanh1","DN");
         System.out.println("đây là hàm main");
