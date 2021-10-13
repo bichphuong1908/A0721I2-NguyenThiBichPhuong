@@ -3,10 +3,8 @@ package ss5_static_ac.baitap.xaydunglop;
 public class Student {
     private String name = "John";
     private String classes = "C02";
-    public static int count;
 
     public Student() {
-        count++;
     }
 
     public String getName() {
