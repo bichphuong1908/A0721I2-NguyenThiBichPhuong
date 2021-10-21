@@ -1,25 +1,31 @@
-package ss7_abstractclass_interface.baitap.interface_resizeable;
+package ss7_abstractclass_interface.baitap.interface_colorable;
 
-public class Square extends Shape implements Resizeable {
-    private double side;
+public class Square extends Shape implements Colorable{
+    private double side =0;
 
     public Square() {
     }
 
     public Square(double side) {
+        
         this.side = side;
     }
 
     public Square(double side, String color, boolean filled) {
-        super(color,filled);
+        setShape(color,filled);
         this.side = side;
     }
 
+    private void setShape(String color, boolean filled) {
+    }
+
     public double getSide() {
+        
         return side;
     }
 
     public void setSide(double side) {
+        
         this.side = side;
     }
 
@@ -28,17 +34,11 @@ public class Square extends Shape implements Resizeable {
         return "A Square with side="
                 + getSide()
                 + ", which is a subclass of "
-                + super.toString()
-                + ", Area=" +
-                + getArea();
-    }
-
-    double getArea() {
-        return side * side;
+                + super.toString();
     }
 
     @Override
-    public void resize(double percent) {
-        this.side += this.side * percent / 100;
+    public void howToColor() {
+        System.out.println("hình vuông: tô 4 cạnh");
     }
 }
