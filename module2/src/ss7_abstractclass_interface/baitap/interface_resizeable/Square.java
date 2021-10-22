@@ -34,6 +34,7 @@ public class Square extends Shape implements Resizeable {
     }
 
     double getArea() {
+
         return side * side;
     }
 
