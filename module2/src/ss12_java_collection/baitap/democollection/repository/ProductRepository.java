@@ -1,7 +1,7 @@
-package ss12_java_collection.baitap.luyen_tap.repository;
+package ss12_java_collection.baitap.democollection.repository;
 
 
-import ss12_java_collection.baitap.luyen_tap.entity.Product;
+import ss12_java_collection.baitap.democollection.entity.Product;
 
 import java.util.ArrayList;
 import java.util.List;
