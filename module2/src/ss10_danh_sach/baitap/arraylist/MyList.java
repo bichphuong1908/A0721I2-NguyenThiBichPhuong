@@ -24,14 +24,48 @@ public class MyList<E> {
         // Tăng độ dài của danh sách lên 1;
         size++;
     }
-    public void remmove(E element) {
-        if (size == elements.length) {
-            ensureCapacity();
+    public boolean remove(int index) {
+        if (index >= 0 && index < size) {
+            for (int i = index; i < size; i++) {
+                elements[i] = elements[i + 1];
+            }
+            size = size - 1;
+            return true;
         }
-        // Thêm phần tử element vào cuối danh sách (mảng)
-        elements[size] = element;
-        // Tăng độ dài của danh sách lên 1;
-        size--;
+        return false;
+    }
+    public void clear() {
+        size = 0;
+        for (int i = 0; i < elements.length; i++) {
+            elements[i] = null;
+        }
+    }
+    public int indexOf(E element) {
+        int index = -1;
+        for (int i = 0; i < size; i++) {
+            if (elements[i].equals(element)) {
+                return i;
+            }
+        }
+        return index;
+    }
+    public boolean contains(E  element) {
+        for (E x : elements) {
+            if (element.equals(x)) {
+                return true;
+            }
+        }
+        return false;
     }
 
+    public int size() {
+        return size;
+    }
+
+    public E get(int i) {
+        if (i >= 0 && i <= size) {
+            return elements[i];
+        }
+        throw new IndexOutOfBoundsException("Index: " + i + ", Size " + (size - 1));
+    }
 }
