@@ -1,54 +1,38 @@
 package ss14_sorting_algorithms.baitap.insertion_sort;
 
-import java.util.Scanner;
-
 public class InsertionSort {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter list size:");
-        int size = scanner.nextInt();
-        int[] list = new int[size];
-        System.out.println("Enter " + list.length + " values:");
-        for (int i = 0; i < list.length; i++) {
-            list[i] = scanner.nextInt();
-        }
-        System.out.print("Your input list: ");
-        for (int i = 0; i < list.length; i++) {
-            System.out.print(list[i] + "\t");
-            System.out.println("\nBegin sort processing...");
-            insertionSort(list);
+    void sort(int arr[]) {
+        int n = arr.length;
+        for (int i = 1; i < n; ++i) {
+            int key = arr[i];
+            int j = i - 1;
+
+            // Di chuyển các phần tử của arr [0 ... i - 1], lớn hơn key
+            // đến một vị trí trước vị trí hiện tại của chúng
+            while (j >= 0 && arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j = j - 1;
+            }
+            arr[j + 1] = key;
         }
     }
-        public static void insertionSort(int[] list) {
 
-            int k;
-            for (k = 1; k < list.length; k++) {
-                /* Array may be sorted and next pass not needed */
-                int key = list[k];
-                int j = k - 1;
-                while (j >= 0 && list[j] > key) {
-                    list[j + 1] = list[j];
-                    j = j - 1;
-                }
-                list[j + 1] = key;
-                for (int i = 0; i < list.length - k; i++) {
-                    if (list[i] > list[i + 1]) {
-                        /* Swap list[i] with list[i + 1] */
-                        System.out.println("Swap " + list[i] + " with " + list[i + 1]);
-                        int temp = list[i];
-                        list[i] = list[i + 1];
-                        list[i + 1] = temp;
+    // In các phần tử của mảng
+    static void printArray(int arr[]) {
+        int n = arr.length;
+        for (int i = 0; i < n; ++i)
+            System.out.print(arr[i] + " ");
 
-                    }
-                }
-            }
+        System.out.println();
+    }
 
-
-            /* Show the list after sort */
-            System.out.print("List after the  " + k + "' sort: ");
-            for (int j = 0; j < list.length; j++) {
-                System.out.print(list[j] + "\t");
-            }
-            System.out.println();
-        }
+    public static void main(String args[]) {
+        int arr[] = {12, 13, 11, 5, 6};
+        System.out.println("Mảng ban đầu:");
+        printArray(arr);
+        InsertionSort ob = new InsertionSort();
+        ob.sort(arr);
+        System.out.println("Mảng sau khi sắp xếp:");
+        printArray(arr);
+    }
 }
