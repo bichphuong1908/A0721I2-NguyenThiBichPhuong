@@ -1,16 +1,29 @@
 package ss10_danh_sach.baitap.linkedlist;
 
-public class MyLinkedList<E> {
+public class MyLinkedList<T> {
     private Node head;
     private int numNodes = 0;
 
     public MyLinkedList() {
     }
 
-    public MyLinkedList(E element) {
+    public MyLinkedList(T element) {
         head = new Node(element);
     }
-    public void add(int index, E element) {
+
+    private class Node {
+        private Object data;
+        private Node next;
+
+        public Node(Object data) {
+            this.data = data;
+        }
+
+        public Object getData() {
+            return this.data;
+        }
+    }
+    public void add(int index, T element) {
         Node temp = head;
 
         for (int i = 0; i < index - 1 && temp.next != null; i++) {
@@ -23,10 +36,31 @@ public class MyLinkedList<E> {
         numNodes++;
     }
 
-    public void addFirst(E element) {
+    public void addFirst(T element) {
         Node temp = head;
         head = new Node(element);
         head.next = temp;
         numNodes++;
     }
+
+    public T get(int index) {
+        Node temp = head;
+        for (int i = 0; i < index; i++) {
+            temp = temp.next;
+        }
+        return (T) temp.getData();
+    }
+
+    public void printList() {
+        Node temp = head;
+        while (temp != null) {
+            System.out.println(temp.getData());
+            temp = temp.next;
+        }
+    }
+
+    public int size() {
+        return numNodes;
+    }
+
 }
