@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2/src/ss1_introduction_to_java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/module1/bai4/baitap/GitProject" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/module1/bai4_Git &amp; HTML/baitap/GitProject" vcs="Git" />
   </component>

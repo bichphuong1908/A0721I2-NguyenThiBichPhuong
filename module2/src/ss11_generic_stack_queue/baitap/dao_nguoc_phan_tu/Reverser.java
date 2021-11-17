@@ -1,56 +1,42 @@
 package ss11_generic_stack_queue.baitap.dao_nguoc_phan_tu;
 
-import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Stack;
 
 public class Reverser {
-    private String input;
-    private String output;
-    public Reverser(String in) {
-        input = in;
+    public static ArrayList<Integer> reverseArray(ArrayList<Integer> inputArray) {
+        Stack<Integer> stack = new Stack<>();
+        ArrayList<Integer> result = new ArrayList<>();
+        for (Integer integer : inputArray) {
+            stack.push(integer);
+        }
+        while(!stack.empty()) {
+            result.add(stack.pop());
+        }
+        return result;
     }
-    public String doRev() {
-        int stackSize = input.length();
-        Stack theStack = new Stack(stackSize);
-        for (int i = 0; i < input.length(); i++) {
-            char ch = input.charAt(i);
-            theStack.push(ch);
+    public static StringBuilder reverseString(String inputString) {
+        StringBuilder result = new StringBuilder();
+        Stack<String> wStack = new Stack<>();
+        ArrayList<String> listOfWords = new ArrayList<>(Arrays.asList(inputString.split(" ")));
+        for (String listOfWord : listOfWords) {
+            wStack.push(listOfWord + " ");
         }
-        output = "";
-        while (!theStack.isEmpty()) {
-            char ch = theStack.pop();
-            output = output + ch;
+        while(!wStack.empty()) {
+            result.append(wStack.pop());
         }
-        return output;
+        return result;
     }
-    public static void main(String[] args)
-            throws IOException {
-        String input = "phuong";
-        String output;
-        Reverser theReverser =
-                new Reverser(input);
-        output = theReverser.doRev();
-        System.out.println("Reversed: " + output);
-    }
-    class Stack {
-        private int maxSize;
-        private char[] stackArray;
-        private int top;
-        public Stack(int max) {
-            maxSize = max;
-            stackArray = new char[maxSize];
-            top = -1;
+    public static void main(String[] args) {
+        ArrayList<Integer> inputArray = new ArrayList<>(5);
+        for (int i = 1; i <= 10; i++) {
+            inputArray.add(i);
         }
-        public void push(char j) {
-            stackArray[++top] = j;
-        }
-        public char pop() {
-            return stackArray[top--];
-        }
-        public char peek() {
-            return stackArray[top];
-        }
-        public boolean isEmpty() {
-            return (top == -1);
-        }
+        System.out.println(inputArray);
+        System.out.println(reverseArray(inputArray));
+
+        String reverseString = "string reversed a is this";
+        System.out.println(reverseString(reverseString));
     }
 }
