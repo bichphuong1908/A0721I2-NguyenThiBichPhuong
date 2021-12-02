@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SoThanhChu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter your number: ");
+        System.out.println("Enter your numbers: ");
         int number = scanner.nextInt();
         System.out.println(convert(number));
     }
