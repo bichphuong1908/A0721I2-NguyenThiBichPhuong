@@ -17,4 +17,9 @@ create table teacher(
 select * from class;
 select * from teacher;
 
-
+create table `student`(
+    id int NOT NULL,
+    name varchar(45),
+    age int NULL,
+    country varchar(45)  
+);
