@@ -7,7 +7,7 @@ CREATE TABLE Class
     ClassID   INT         NOT NULL AUTO_INCREMENT PRIMARY KEY,
     ClassName VARCHAR(60) NOT NULL,
     StartDate DATETIME    NOT NULL,
-    Status    BIT
+    `Status`    BIT
 );
 
 CREATE TABLE Student
@@ -21,12 +21,12 @@ CREATE TABLE Student
     FOREIGN KEY (ClassId) REFERENCES Class (ClassID)
 );
 
-CREATE TABLE Subject
+CREATE TABLE `Subject`
 (
     SubId   INT         NOT NULL AUTO_INCREMENT PRIMARY KEY,
     SubName VARCHAR(30) NOT NULL,
     Credit  TINYINT     NOT NULL DEFAULT 1 CHECK ( Credit >= 1 ),
-    Status  BIT                  DEFAULT 1
+    `Status`  BIT                  DEFAULT 1
 );
 
 CREATE TABLE Mark

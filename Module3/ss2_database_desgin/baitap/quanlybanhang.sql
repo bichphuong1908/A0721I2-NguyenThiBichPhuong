@@ -19,13 +19,13 @@ CREATE TABLE `Order`(
 CREATE TABLE Product(
 	  pID INT PRIMARY KEY,
       pName VARCHAR(50) NOT NULL,
-      pPrice DOUBLE
+      pPrice DOUBLE 
 );
 
 CREATE TABLE OrderDetail(
-      oID INT NOT NULL,
-      pID INT NOT NULL,
-      odQTY VARCHAR(100) NOT NULL,
+      oID INT,
+      pID INT,
+      odQTY VARCHAR(50),
       PRIMARY KEY (oID, pID),
       FOREIGN KEY (oID) REFERENCES `Order`(oID),
       FOREIGN KEY (pID) REFERENCES Product(pID)
