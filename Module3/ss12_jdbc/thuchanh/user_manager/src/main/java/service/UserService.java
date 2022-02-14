@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UserService implements IUserService {
-    private String jdbcURL = "jdbc:mysql://localhost:3306/user_customer?useSSL=false";
+    private String jdbcURL = "jdbc:mysql://localhost:3306/demo";
     private String jdbcUsername = "root";
     private String jdbcPassword = "Gau082001";
 

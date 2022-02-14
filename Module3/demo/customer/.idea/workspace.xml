@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b969c6b4-2e73-4b20-9c17-f5e6e04bc8ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/QLFurama_web/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/QLFurama_web/src/main/java/modle/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/baithi.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build/classes/java/main/controller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build/classes/java/main/model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build/classes/java/main/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build/libs/baitap-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CaseStudy_qlfurama/baitap/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/java/controller/ChothueController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/java/model/Chothue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/java/service/ChothueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/webapp/chothue/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/webapp/chothue/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../baithi/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_mvc_bt/.idea/11_mvc_bt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_mvc_bt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/baithi.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/customer-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/customer/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/demo_session_cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/repository/IStudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/repository/impl/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/repository/impl/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/java/service/impl/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/create_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/list_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/result_final.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_session_cookie/main/webapp/update_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss11_demo_a07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss11_demo_a07/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss11_demo_a07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss11_demo_a07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss12_demo_a07/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss12_demo_a07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss12_demo_a07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss13_demo_a07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss13_demo_a07/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss13_demo_a07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss13_demo_a07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule/.idea/thicuoimodule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/java/controller/MatbangControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/java/model/Matbang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/java/service/MatbangServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/webapp/matbang/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thicuoimodule3/src/main/webapp/matbang/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau1/bai1/hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau1/bai2/hinhtamgiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau1/bai3/tamgiaccan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau1/bai4/tamgiaccanrong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau3/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau3/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau3/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau3/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau4/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau4/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau4/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau5/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/CASESTUDY1/yeucau5/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/thicuoiModule1/thuchanh/cau1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../module1/thicuoiModule1/thuchanh/cau2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau1/bai1/hinhchunhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau1/bai2/hinhtamgiac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau1/bai3/tamgiaccan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau1/bai4/tamgiaccanrong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau2/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau2/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau3/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau3/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau3/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau3/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau3/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau4/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau4/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau4/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau5/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CASESTUDY1/yeucau5/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_mvc_bt/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_mvc_bt/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_mvc_bt/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_mvc_bt/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss10_demo_a07/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss10_demo_a07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss13_demo_a07/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ss13_demo_a07/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss9_demo_a07/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss9_demo_a07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/artifacts/untitled1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/artifacts/untitled1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/artifacts/untitled1_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/build/classes/java/main/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/build/classes/java/main/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/build/libs/user_manager-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/build/libs/user_manager-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss12_jdbc/thuchanh/user_manager/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicuoiModule1/thuchanh/cau1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../thicuoiModule1/thuchanh/cau2.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="24Dg85GLSwHij1IQcMghMJmLdq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.351" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.351" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : jdbc : customer-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_customer_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52269" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : jdbc : customer-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b969c6b4-2e73-4b20-9c17-f5e6e04bc8ea" name="Default Changelist" comment="" />
+      <created>1642158181983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642158181983</updated>
+      <workItem from="1642158184701" duration="4399000" />
+      <workItem from="1643170410157" duration="154000" />
+      <workItem from="1643171257750" duration="601000" />
+      <workItem from="1643191837843" duration="1196000" />
+      <workItem from="1644205275379" duration="3705000" />
+      <workItem from="1644221368017" duration="3139000" />
+      <workItem from="1644229528695" duration="1506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1643170565153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1643170565153" />
+  </component>
+</project>
