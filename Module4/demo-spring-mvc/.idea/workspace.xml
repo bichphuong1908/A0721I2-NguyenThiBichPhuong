@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae87e6d-724f-42c9-8510-26004b4e5f91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/modules/email-validate-gradle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/java/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-gradle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/email-validate-maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/src/main/webapp/WEB-INF/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss2_spring_controller/thuchanh/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="256Gpk7MvfE6MQ9EDtj47sIiFH0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ss1_spring_mvc/thuchanh/customer-management" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4\demo-spring-mvc\src\main\webapp\WEB-INF" />
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4\demo-spring-mvc\src\main\webapp\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4\demo-spring-mvc\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.351">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo-spring-mvc [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.351" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.351" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : demo-spring-mvc-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_demo-spring-mvc" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52027" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : demo-spring-mvc-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.demo-spring-mvc [dependencies]" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.351" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.demo-spring-mvc [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae87e6d-724f-42c9-8510-26004b4e5f91" name="Default Changelist" comment="" />
+      <created>1644840309876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644840309876</updated>
+      <workItem from="1644840312079" duration="2066000" />
+      <workItem from="1645002959563" duration="1012000" />
+      <workItem from="1645008700625" duration="3241000" />
+      <workItem from="1645013503123" duration="747000" />
+      <workItem from="1645062329502" duration="2089000" />
+      <workItem from="1645066429475" duration="1002000" />
+      <workItem from="1645070089357" duration="17000" />
+      <workItem from="1645102210897" duration="770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="11" y="90" key="#Inspections" timestamp="1645003122175">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="11" y="90" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1645003122175" />
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645003320094">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1645003320094" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1645065157405">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1645065157405" />
+    <state width="1024" height="208" key="GridCell.Tab.0.bottom" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.0.center" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.0.left" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.0.right" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.1.bottom" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.1.center" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.1.left" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.1.right" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.2.bottom" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.2.center" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.2.left" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state width="1024" height="208" key="GridCell.Tab.2.right" timestamp="1645065214839">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1645065214839" />
+    <state x="209" y="19" key="new project wizard" timestamp="1645063933063">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="209" y="19" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1645063933063" />
+  </component>
+</project>
