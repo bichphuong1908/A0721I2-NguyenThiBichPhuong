@@ -1,5 +1,6 @@
 CREATE DATABASE module3;
 USE module3;
+
 CREATE TABLE chothue(
 id  INT PRIMARY KEY AUTO_INCREMENT,
 dien_tich DOUBLE,
