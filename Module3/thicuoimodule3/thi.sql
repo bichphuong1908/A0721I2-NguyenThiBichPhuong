@@ -1,7 +1,7 @@
 CREATE DATABASE thi;
 USE thi;
 CREATE TABLE mat_bang (
-id INT PRIMARY KEY AUTO_INCREMENT,
+id INT PRIMARY KEY AUTO_INCREMENTrole,
 dien_tich double,
 trang_thai varchar(100),
 tang int,
