@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="home.html">
+    <meta charset="UTF-8">
+    <title>Edit customer</title>
+</head>
+<body>
+<center>
+    <h1 style="color: blue">Edit service</h1>
+    <form th:action="@{/edit-service}" th:object="${services}" method="post">
+        <input th:type="hidden" name="id" th:field="*{id}">
+        <table>
+            <tr>
+                <td> Name:</td>
+                <td><input class="bottom-nav"  type="text" th:field="*{name}"/></td>
+            </tr>
+            <tr>
+                <td>Area:</td>
+                <td><input type="text" th:field="*{area}"/></td>
+            </tr>
+            <tr>
+                <td>Cost:</td>
+                <td><input type="text" th:field="*{cost}"/></td>
+            </tr>
+            <tr>
+                <td>Max_people:</td>
+                <td><input type="text" th:field="*{max_people}"/></td>
+            </tr>
+            <tr>
+                <td>Standard_room:</td>
+                <td><input type="text" th:field="*{standard_room}"/></td>
+            </tr>
+            <tr>
+                <td>Description_other_convenience:</td>
+                <td><input type="text" th:field="*{description_other_convenience}"/></td>
+            </tr>
+            <tr>
+                <td>Pool_area:</td>
+                <td><input type="text" th:field="*{pool_area}"/></td>
+            </tr>
+            <tr>
+            <tr>
+                <td>Number_of_floors:</td>
+                <td><input type="text" th:field="*{Number_of_floors}"/></td>
+            </tr>
+            <tr>
+            <td>Name ServiceType</td>
+                <td><select th:field="*{serviceType}">//${service.province}
+                    <option th:each="serviceType:${serviceTypes}" th:text="${serviceType.name}" th:value="${serviceType.id}"></option>
+                </select>
+                </td>
+
+            </tr>
+            <tr>
+                <td>Name RentType</td>
+                <td><select  th:field="*{rentType}">
+                    <option th:each="rentType : ${rentTypes}" th:text="${rentType.name}" th:value="${rentType.id}"></option>
+                </select>
+                </td>
+
+            </tr>
+            <tr>
+                <td></td>
+                <td><input  type="submit"  value="Update customer" class="btn btn-success"></td>
+            </tr>
+        </table>
+
+    </form>
+</center>
+</body>
+
+</html>

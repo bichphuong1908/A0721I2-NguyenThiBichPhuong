@@ -1,6 +1,7 @@
-package com.codegym.casestudy.service.Role;
+package com.codegym.casestudy.service.user;
 
-import com.codegym.casestudy.model.Role;
+
+import com.codegym.casestudy.model.user.Role;
 
 import java.util.List;
 

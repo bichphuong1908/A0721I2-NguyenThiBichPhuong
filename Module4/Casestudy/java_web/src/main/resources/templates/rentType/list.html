@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>RentType</h1>
+<p>
+    <a href="/rentType/create-rentTypeT">Create new rentType</a>
+</p>
+<!--<form>-->
+<!--    Search by first name:-->
+<!--    <input name="search" type="text"/>-->
+<!--    <input class="btn btn-primary" type="submit" value="Search"/>-->
+<!--</form>-->
+<br/>
+<table border="1px">
+    <thead>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Cost</th>
+    <th>Edit</th>
+    <th>Delete</th>
+    </thead>
+    <tbody th:each="rentType : ${rentTypes}">
+    <td th:text="${rentType.id}"></td>
+    <td th:text="${rentType.name}"></td>
+    <td th:text="${rentType.cost}"></td>
+    <td><a th:href="@{/rentType/edit-rentType/__${rentType.id}__ }">Edit</a></td>
+    <td><a th:href="@{/rentType/delete-rentType/__${rentType.id}__ }">Delete</a></td>
+    </tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.w3.org/1999/xhtml">
+<head th:replace="/home :: head">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="logo" style="width: 100%">
+    <a th:href="@{/}"><img src="/img/FURAMA.png"></a>
+    <div class="header-panel">
+        <h1>Welcome to Furama resort</h1>
+    </div>
+    <div>
+        <p th:object="${user}" th:text="${user.name}" style="margin: 8px 20px 0 0px; color: white"></p>
+        <a style="margin-right: 30px; line-height: 81px;color: white" sec:authorize="isAuthenticated()" th:href="@{/logout}">Logout</a>
+    </div>
+</div>
+<h2>Customer List</h2>
+<a th:href="@{/user/customer/create}">Create new customer</a>
+<form class="form form control-box">
+    Search by name:
+    <input type="text" name="search">
+    <input type="submit" value="Search">
+</form>
+<table class="table table-striped">
+    <thead>
+          <th>STT</th>
+          <th>Name</th>
+          <th>Birthday</th>
+          <th>Gender</th>
+          <th>Id Card</th>
+          <th>Phone Number</th>
+          <th>Email</th>
+          <th>Address</th>
+          <th>Customer Type</th>
+          <th>View</th>
+          <th>Edit</th>
+          <th>Delete</th>
+    </thead>
+    <tbody th:each="c,iter : ${customer}">
+    <td th:text="${iter.count}"></td>
+    <td th:text="${c.name}"></td>
+    <td th:text="${c.birthday}"></td>
+    <td th:text="${c.gender} ? 'Female' : 'Male' "></td>
+    <td th:text="${c.idCard}"></td>
+    <td th:text="${c.phoneNumber}"></td>
+    <td th:text="${c.email}"></td>
+    <td th:text="${c.address}"></td>
+    <td th:text="${c.customerType.name}"></td>
+    <td><a th:href="@{/user/customer/{id}/view(id=${c.getId()})}">View</a></td>
+    <td><a th:href="@{/user/customer/{id}/edit(id=${c.getId()})}">Edit</a></td>
+    <td><a th:href="@{/user/customer/{id}/delete(id=${c.getId()})}">Delete</a></td>
+    </tbody>
+</table>
+
+<div class="page" style="text-align-last: center">
+    <a th:href="@{'/user/customer/'(page=${customer.number - 1}, search=${search})}" th:if="${customer.hasPrevious()}" >Previous</a>
+    <span th:text="${customer.number + 1}"></span>/<span th:text="${customer.totalPages}"></span>
+    <a th:href="@{'/user/customer/'(page=${customer.number + 1}, search=${search})}" th:if="${customer.hasNext()}">Next</a>
+</div>
+
+<footer th:replace="/home :: footer"></footer>
+</body>
+</html>

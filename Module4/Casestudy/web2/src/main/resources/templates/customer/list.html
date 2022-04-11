@@ -34,19 +34,19 @@
         <th>Edit</th>
         <th>Delete</th>
     </tr>
-    <th:block th:each="c : ${customers}">
+    <th:block th:each="customer : ${customers}">
         <tr>
-            <td th:text="${c.id}"></td>
-            <td th:text="${c.customerType.getName()}"></td>
-            <td th:text="${c.name}"></td>
-            <td th:text="${c.birthday}"></td>
-            <td th:text="${c.gender}"></td>
-            <td th:text="${c.idcard}"></td>
-            <td th:text="${c.phone}"></td>
-            <td th:text="${c.email}"></td>
-            <td th:text="${c.address}"></td>
-            <td><a type="button" class="btn btn-primary" th:href="@{/customer/edit-customer/__${c.id}__ }">Edit</a></td>
-            <td><a type="button" class="btn btn-warning"th:href="@{/customer/delete-customer/__${c.id}__ }">Delete</a></td>
+            <td th:text="${customer.id}"></td>
+            <td th:text="${customer.customerType.id}"></td>
+            <td th:text="${customer.name}"></td>
+            <td th:text="${customer.birthday}"></td>
+            <td th:text="${customer.gender}"></td>
+            <td th:text="${customer.idcard}"></td>
+            <td th:text="${customer.phone}"></td>
+            <td th:text="${customer.email}"></td>
+            <td th:text="${customer.address}"></td>
+            <td><a type="button" class="btn btn-primary" th:href="@{/customer/edit-customer/__${customer.id}__ }">Edit</a></td>
+            <td><a type="button" class="btn btn-warning"th:href="@{/customer/delete-customer/__${customer.id}__ }">Delete</a></td>
         </tr>
     </th:block>
 </table>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="/home :: head">
+</head>
+<body>
+<div class="logo" style="width: 100%">
+    <a th:href="@{/}"><img src="/img/FURAMA.png"></a>
+    <div class="header-panel">
+        <h1>Welcome to Furama resort</h1>
+    </div>
+</div>
+<div style="margin-left: 20px">
+    <h2>View customer</h2>
+    <a th:href="@{/user/customer/}" class="btn btn-primary">Back to customers list</a>
+</div>
+<div class="container" style="margin-top: 10px; font-size: 20px">
+    <form id="form" th:object="${customers}" method="post" th:action="@{/user/customer/view}">
+        <input th:field="*{id}" type="hidden">
+        <div class="form form-control">
+            <label>Customer name: </label>
+            <input th:field="*{name}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer birth day: </label>
+            <input th:field="*{birthday}" type="date" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer gender: </label>
+            <span th:text="${customers.gender} ? 'Female' : 'Male'"></span>
+        </div>
+        <div class="form form-control">
+            <label>Customer id card: </label>
+            <input th:field="*{idCard}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer phone number: </label>
+            <input th:field="*{phoneNumber}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer email: </label>
+            <input th:field="*{email}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer address: </label>
+            <input th:field="*{address}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Customer type</label>
+            <input th:field="*{customerType.id}" type="text" readonly>
+        </div>
+    </form>
+</div>
+<footer th:replace="/home :: footer"></footer>
+</body>
+</html>

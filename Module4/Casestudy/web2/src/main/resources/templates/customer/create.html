@@ -28,7 +28,7 @@
                 <label>Type_id: </label>
 <!--                <input class="form-control" type="text" th:field="*{customerType.id}">-->
                 <select th:field="*{customerType}">
-                    <option th:each="ctype : ${customerTpye}" th:value="${ctype.id}" th:text="${ctype.name}"></option>
+                    <option th:each="customerType : ${customerTpye}" th:value="${customerType.id}" th:text="${customerType.name}"></option>
                 </select>
             </div>
         </div>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="/home :: head">
+</head>
+<body>
+<div class="logo" style="width: 100%">
+    <a th:href="@{/}"><img src="/img/FURAMA.png"></a>
+    <div class="header-panel">
+        <h1>Welcome to Furama resort</h1>
+    </div>
+</div>
+<div style="margin-left: 20px">
+    <h2>Delete employee</h2>
+    <a th:href="@{/user/customer/}" class="btn btn-primary">Back to customers list</a>
+</div>
+<div class="container" style="margin-top: 10px; font-size: 20px">
+    <form id="form" th:object="${employee}" method="post" th:action="@{/admin/employee/delete}">
+        <input th:field="*{id}" type="hidden">
+        <div class="form form-control">
+            <label>Employee name: </label>
+            <input th:field="*{name}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee birth day: </label>
+            <input th:field="*{birthDay}" type="date" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee id card: </label>
+            <input th:field="*{idCard}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee salary: </label>
+            <input th:field="*{salary}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee phone number: </label>
+            <input th:field="*{phoneNumber}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee email: </label>
+            <input th:field="*{email}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee address: </label>
+            <input th:field="*{address}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee position</label>
+            <input th:field="*{position.id}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee education degree</label>
+            <input th:field="*{educationDegree.id}" type="text" readonly>
+        </div>
+        <div class="form form-control">
+            <label>Employee division</label>
+            <input th:field="*{division.id}" type="text" readonly>
+        </div>
+        <input type="submit" value="Delete employee" class="btn btn-danger">
+    </form>
+</div>
+</body>
+</html>

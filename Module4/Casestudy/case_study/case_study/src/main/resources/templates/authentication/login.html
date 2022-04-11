@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="/home :: head">
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body style="background-color: antiquewhite">
+<div class="logo" style="width: 100%">
+    <a th:href="@{/}"><img src="/img/FURAMA.png"></a>
+    <div class="header-panel">
+        <h1>Welcome to Furama resort</h1>
+    </div>
+</div>
+<!--<div th:replace="~{layout/navbar::navbar}"></div>-->
+<div style="height: 100px"></div>
+
+<aside class="d-flex justify-content-center align-items-center">
+    <article class="col-md-4">
+
+        <!--        <h4 class="card-title mb-4 mt-1">Đăng Nhập</h4>-->
+        <p>
+            <a th:href="@{/register}" class="float-right btn btn-outline-warning">Register</a>
+            <a href="" class="btn btn-block btn-outline-info"> <i class="fab fa-twitter"></i>Twitter</a>
+            <a href="" class="btn btn-block btn-outline-primary"> <i class="fab fa-facebook-f"></i>Facebook</a>
+        </p>
+        <hr>
+        <form th:action="@{/login}" method="post">
+            <p th:if="${param.error}" class="text-danger" style="text-align: center">Login failed</p>
+            <div class="form-group">
+                <input name="email" class="form-control" placeholder="Enter your email" type="email">
+            </div> <!-- form-group// -->
+            <div class="form-group">
+                <input class="form-control" name="password" placeholder="Enter password" type="password">
+            </div> <!-- form-group// -->
+            <div class="col-12">
+                <input type="checkbox" name="remember-me"> Remember me
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-warning btn-block"> Login</button>
+                    </div> <!-- form-group// -->
+                </div>
+                <div class="col-12 text-right">
+                    <a class="small" href="#">Forget password?</a>
+                </div>
+            </div> <!-- .row// -->
+        </form>
+    </article>
+
+</aside> <!-- col.// -->
+
+<footer th:replace="/home :: footer"></footer>
+</body>
+</html>
