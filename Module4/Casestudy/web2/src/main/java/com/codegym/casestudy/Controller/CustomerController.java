@@ -46,18 +46,10 @@ public class CustomerController {
 //        return new ModelAndView("customer/list", "customer", customerService.findAll(pageable));
 //    }
 
-//    //@GetMapping
-////    public ResponseEntity<Iterable<Customer>> findAllCustomer() {
-////        List<Customer> customers = (List<Customer>) customerService.findAll();
-////        if (customers.isEmpty()) {
-////            return new ResponseEntity<>(HttpStatus.NO_CONTENT);
-////        }
-////        return new ResponseEntity<>(customers, HttpStatus.OK);
-//    }
     @GetMapping("/create-customer")
     public ModelAndView showCreateForm(Pageable pageable) {
         ModelAndView modelAndView = new ModelAndView("/customer/create");
-        List<CustomerType> customerTypes = (List<CustomerType>) customerTypeService.findAll();
+        List<CustomerType> customerTypes = customerTypeService.findAll();
         modelAndView.addObject("customerTpye", customerTypes);
         modelAndView.addObject("customer", new Customer());
         return modelAndView;
@@ -81,7 +73,7 @@ public class CustomerController {
     @PostMapping("/search")
     public String handleSearch(@RequestParam("search") String search, Pageable pageable , Model model) {
         Page<Customer> customers = customerService.SearchByName(search , pageable);
-        model.addAttribute("customers" , customers);
+        model.addAttribute("customer" , customers);
         return "/customer/list";
     }
 
