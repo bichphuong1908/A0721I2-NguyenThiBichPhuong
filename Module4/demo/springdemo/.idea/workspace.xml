@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef7b8160-c08d-4728-8159-c0da0e6271ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/java/com/codegym/baithi/controller/KhuyenMaiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/java/com/codegym/baithi/controller/KhuyenMaiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/java/com/codegym/baithi/model/KhuyenMai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/java/com/codegym/baithi/model/KhuyenMai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/resources/templates/khuyenMai/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BaiThi/baithi/src/main/resources/templates/khuyenMai/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/build/classes/java/main/controller/ConvertController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/build/classes/java/main/controller/ConvertController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/build/libs/chuyen_tien_te-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/build/libs/chuyen_tien_te-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/src/main/java/controller/ConvertController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/baitap/chuyen_tien_te/src/main/java/controller/ConvertController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/build/libs/demo-spring-mvc-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss1_spring_mvc/thuchanh/demo-spring-mvc/build/libs/demo-spring-mvc-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="283sB71Tunz9BT3JImBgZcnOYUJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaiThi/baithi" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7b8160-c08d-4728-8159-c0da0e6271ff" name="Default Changelist" comment="" />
+      <created>1650456469912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650456469912</updated>
+      <workItem from="1650456471180" duration="1290000" />
+      <workItem from="1650459142780" duration="2160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2041" y="0" key="#Project_Structure" timestamp="1650456752084">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2041" y="0" key="#Project_Structure/0.0.1920.1040/1920.0.1280.680@1920.0.1280.680" timestamp="1650456752084" />
+    <state x="2366" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1650457480225">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2366" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.680@1920.0.1280.680" timestamp="1650457480225" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1650463961056">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1650463961056" />
+  </component>
+</project>

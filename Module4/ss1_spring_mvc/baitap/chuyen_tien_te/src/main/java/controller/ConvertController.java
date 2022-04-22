@@ -11,11 +11,12 @@ public class ConvertController {
     public String getConvert() {
         return "index";
     }
+
     @GetMapping (path = "/chuyen")
     public String chuyen(@RequestParam float usd, @RequestParam float rate, Model model) {
         float vnd=usd*rate;
-        model.addAttribute("usd", vnd);
-        model.addAttribute("rate", vnd);
+//        model.addAttribute("usd", vnd);
+//        model.addAttribute("rate", vnd);
         model.addAttribute("vnd", vnd);
         return "chuyen";
     }

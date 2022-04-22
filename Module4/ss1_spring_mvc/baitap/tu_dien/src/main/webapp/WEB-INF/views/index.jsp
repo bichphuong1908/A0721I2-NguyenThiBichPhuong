@@ -12,15 +12,20 @@
   </head>
   <body>
   <h1>Dịch tiếng Anh</h1>
-  <form method="post", action="/dich.jsp">
-    <div>
-      <table>
-        <tr>
-          <td><input type="text" name="search" placeholder="Nhập từ cần dịch" ></td>
-          <td><input type="submit" id="submit" value="Dich"></td>
-        </tr>
-      </table>
-    </div>
+  <form method="post" action="/index">
+        <fieldset>
+          <legend>Dictionary information</legend>
+          <table>
+            <tr>
+              <td>English word:</td>
+              <td><input type="text" name="word" id="word"></td>
+            </tr>
+            <tr>
+              <td><input type="submit" value="dictionary"></td>
+            </tr>
+          </table>
+        </fieldset>
+      </form>
   </form>
   </body>
 </html>

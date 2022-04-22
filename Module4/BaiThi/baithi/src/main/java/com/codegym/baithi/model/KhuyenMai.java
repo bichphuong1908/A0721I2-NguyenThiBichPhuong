@@ -1,28 +1,35 @@
 package com.codegym.baithi.model;
 
 import javax.persistence.*;
+import javax.validation.constraints.Min;
 import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
+import java.sql.Date;
 
 @Entity
 public class KhuyenMai {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
-    private String tieuDe;
-    private String thoiGianBatDau;
-    private String thoiGianKetThuc;
 
-//    @NotEmpty(message = "không đúng")
-//    @Size(min = 10000)
-    private String mucGiamGia;
+    private String tieuDe;
+
+    private Date thoiGianBatDau;
+
+    private Date thoiGianKetThuc;
+
+    @NotNull(message = "không đúng")
+    @Min(value = 10000, message = "thap quá")
+    private Long mucGiamGia;
+
     private String chiTiet;
 
 
     public KhuyenMai() {
     }
 
-    public KhuyenMai(long id, String tieuDe, String thoiGianBatDau, String thoiGianKetThuc, String mucGiamGia, String chiTiet) {
+    public KhuyenMai(long id, String tieuDe, Date thoiGianBatDau, Date thoiGianKetThuc, Long mucGiamGia, String chiTiet) {
         this.id = id;
         this.tieuDe = tieuDe;
         this.thoiGianBatDau = thoiGianBatDau;
@@ -47,27 +54,27 @@ public class KhuyenMai {
         this.tieuDe = tieuDe;
     }
 
-    public String getThoiGianBatDau() {
+    public Date getThoiGianBatDau() {
         return thoiGianBatDau;
     }
 
-    public void setThoiGianBatDau(String thoiGianBatDau) {
+    public void setThoiGianBatDau(Date thoiGianBatDau) {
         this.thoiGianBatDau = thoiGianBatDau;
     }
 
-    public String getThoiGianKetThuc() {
+    public Date getThoiGianKetThuc() {
         return thoiGianKetThuc;
     }
 
-    public void setThoiGianKetThuc(String thoiGianKetThuc) {
+    public void setThoiGianKetThuc(Date thoiGianKetThuc) {
         this.thoiGianKetThuc = thoiGianKetThuc;
     }
 
-    public String getMucGiamGia() {
+    public Long getMucGiamGia() {
         return mucGiamGia;
     }
 
-    public void setMucGiamGia(String mucGiamGia) {
+    public void setMucGiamGia(Long mucGiamGia) {
         this.mucGiamGia = mucGiamGia;
     }
 

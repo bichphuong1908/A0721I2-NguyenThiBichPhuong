@@ -7,9 +7,14 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
+import javax.validation.Valid;
+import java.util.List;
 import java.util.Optional;
 
 @Controller
@@ -35,25 +40,21 @@ public class KhuyenMaiController {
     }
 
     @GetMapping("/create")
-    public ModelAndView showCreateForm(Pageable pageable) {
+    public ModelAndView showCreateForm() {
         ModelAndView modelAndView = new ModelAndView("/khuyenMai/create");
         modelAndView.addObject("khuyenMai", new KhuyenMai());
         return modelAndView;
     }
 
     @PostMapping("/save")
-    public Object saveKhuyenMai(@ModelAttribute("khuyenMai") KhuyenMai khuyenMai) {
-        khuyenMaiService.save(khuyenMai);
-        return "redirect:/khuyenMai";
-//        if (bindingResult.hasFieldErrors()){
-//            List<KhuyenMai> khuyenMais = khuyenMaiService.findAll();
-//            modelAndView.addObject("khuyenMai", khuyenMais);
-//            return new ModelAndView("/khuyenMai/create");
-//        }else {
-//            khuyenMaiService.save(khuyenMai);
-//            redirectAttributes.addFlashAttribute("message", "Create success");
-//            return "redirect:/khuyenMai";
-//        }
+    public String saveKhuyenMai(@Valid @ModelAttribute("khuyenMai") KhuyenMai khuyenMai, BindingResult bindingResult, RedirectAttributes redirectAttributes) {
+        if (bindingResult.hasErrors()){
+            return "/khuyenMai/create";
+        }else {
+            khuyenMaiService.save(khuyenMai);
+            redirectAttributes.addFlashAttribute("message", "Create success");
+            return "redirect:/khuyenMai";
+        }
     }
 
 
