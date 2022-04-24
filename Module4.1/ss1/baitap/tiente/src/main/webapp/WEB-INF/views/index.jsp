@@ -12,7 +12,7 @@
   </head>
   <body>
   <h1>Currency Conversion</h1>
-  <form method="get" action="/">
+  <form method="get" action="Convert">
       <table>
         <tr>
           <td>USD:</td>
@@ -28,5 +28,6 @@
         </tr>
       </table>
   </form>
+  <h1>VND = ${vnd}</h1>
   </body>
 </html>

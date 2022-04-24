@@ -7,15 +7,15 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class ConvertController {
-    @GetMapping()
+    @GetMapping("")
     public String getConvert() {
         return "index";
     }
 
-    @GetMapping (path = "/chuyen")
+    @GetMapping ("/Convert")
     public String chuyen(@RequestParam float usd, @RequestParam float rate, Model model) {
         float vnd=usd*rate;
         model.addAttribute("vnd", vnd);
-        return "chuyen";
+        return "index";
     }
 }

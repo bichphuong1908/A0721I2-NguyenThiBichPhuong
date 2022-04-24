@@ -18,14 +18,14 @@ public class DictionaryController {
         return "index";
     }
 
-    @PostMapping(path = "/index")
+    @PostMapping("/index")
     public ModelAndView translate(@RequestParam String word, Model model) {
         String wordVN = this.englishService.findByEnglish(word);
         if (wordVN ==null) {
             return new ModelAndView("404");
         } else {
             model.addAttribute ("word", word);
-            return new ModelAndView("view", "wordVN", wordVN);
+            return new ModelAndView("index", "wordVN", wordVN);
         }
     }
 

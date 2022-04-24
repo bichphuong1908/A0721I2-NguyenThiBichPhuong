@@ -24,5 +24,13 @@
         </tr>
       </table>
   </form>
+  <tr>
+    <td>Word English:</td>
+    <td>${word}</td>
+  </tr><br>
+  <tr>
+    <td>Word Vietnam:</td>
+    <td>${wordVN}</td>
+  </tr>
   </body>
 </html>
