@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27a0931b-5e39-4ba9-8e9b-29b468a57ea6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/formatter/StudentFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/classes/java/main/codegym/vn/service/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/formatter/StudentFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/classes/codegym/vn/service/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/WEB-INF/student/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/exploded/springdemo-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/libs/springdemo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/config/AppInitiallizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/formatter/StudentFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/repository/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/java/codegym/vn/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/webapp/WEB-INF/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/webapp/WEB-INF/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/webapp/WEB-INF/student/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/springdemo3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/controller/EmailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/model/Setting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/email-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Setting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/springdemo/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demo/springdemo/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss1/baitap/tudien/build/libs/tudien-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss1/baitap/tudien/build/libs/tudien-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2/baitap/caculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ss2/baitap/sandwich/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss2/baitap/sandwich/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28NjdxNxuLgWFZczPZpevEX4CP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../demo/springdemo3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4.1\ss4\baitap\email\src\main\webapp\WEB-INF\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4.1\ss4\baitap\email\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.56" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : email-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_email" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53645" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : email-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27a0931b-5e39-4ba9-8e9b-29b468a57ea6" name="Default Changelist" comment="" />
+      <created>1651064030527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651064030527</updated>
+      <workItem from="1651064032870" duration="4746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651064238287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1651064238287" />
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1651067685630">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1651067685630" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1651066473681">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1651066473681" />
+  </component>
+</project>
