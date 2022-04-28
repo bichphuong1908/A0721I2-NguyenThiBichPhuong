@@ -23,24 +23,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a0931b-5e39-4ba9-8e9b-29b468a57ea6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/controller/DeclarationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/model/Declaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/service/DeclarationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/service/DeclarationServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/libs/health_declaration-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/controller/DeclarationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/model/Declaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/service/DeclarationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/service/DeclarationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/controller/EmailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/controller/EmailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/SettingServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/email-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/email-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/EmailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/SettingServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
@@ -105,15 +135,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -201,7 +229,8 @@
       <option name="presentableId" value="Default" />
       <updated>1651064030527</updated>
       <workItem from="1651064032870" duration="5284000" />
-      <workItem from="1651106938390" duration="5562000" />
+      <workItem from="1651106938390" duration="6420000" />
+      <workItem from="1651132723314" duration="4448000" />
     </task>
     <servers />
   </component>
@@ -240,54 +269,58 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1651109335397" />
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.1.bottom" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.1.bottom" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.1.center" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.1.center" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.1.left" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.1.left" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.1.right" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.1.right" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.2.bottom" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.2.bottom" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.2.center" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.2.center" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.2.left" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.2.left" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
-    <state width="1024" height="658" key="GridCell.Tab.2.right" timestamp="1651112441858">
+    <state width="1024" height="658" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state width="1024" height="658" key="GridCell.Tab.2.right" timestamp="1651114033206">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1651112441858" />
+    <state width="1024" height="658" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1651114033206" />
+    <state x="360" y="19" key="new project wizard" timestamp="1651132922793">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="19" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1651132922793" />
     <state x="425" y="185" key="run.anything.popup" timestamp="1651107387737">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
