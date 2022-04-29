@@ -23,54 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27a0931b-5e39-4ba9-8e9b-29b468a57ea6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/controller/DeclarationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/model/Declaration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/service/DeclarationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/classes/java/main/com/codegym/service/DeclarationServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/libs/health_declaration-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/controller/DeclarationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/model/Declaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/service/DeclarationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/java/com/codegym/service/DeclarationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../health_declaration/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../health_declaration/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../health_declaration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../health_declaration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../health_declaration/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
@@ -135,17 +91,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 9.0.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.56" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -231,6 +176,7 @@
       <workItem from="1651064032870" duration="5284000" />
       <workItem from="1651106938390" duration="6420000" />
       <workItem from="1651132723314" duration="4448000" />
+      <workItem from="1651235871490" duration="584000" />
     </task>
     <servers />
   </component>

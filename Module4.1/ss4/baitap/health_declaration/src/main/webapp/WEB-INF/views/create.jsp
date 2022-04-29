@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td>Gioi tinh</td>
-            <form:radiobuttons path="sex" items="${sexs}"/>
+            <td><form:radiobuttons path="sex" items="${sexs}"></form:radiobuttons></td>
         </tr>
         <tr>
             <td>Quoc tich</td>
