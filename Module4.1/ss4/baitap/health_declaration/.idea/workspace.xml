@@ -23,10 +23,157 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db00e12-21a4-48fb-aebd-4313e3a87926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/formatter/StudentFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/classes/java/main/vn/service/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/formatter/StudentFormatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/service/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/ognl-3.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-3.0.15.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-spring4-3.0.15.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/libs/thymeleaf-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/resources/main/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/out/production/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/config/AppInitiallizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/formatter/StudentFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/repository/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/java/vn/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/WEB-INF/student/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/controller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/repository/IProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/repository/ProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/service/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/classes/java/main/com/codegym/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/libs/product_management-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/config/AppInitiallizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/webapp/WEB-INF/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../email/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../email/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
@@ -93,6 +240,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.56" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -176,7 +336,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651132925247</updated>
       <workItem from="1651132927168" duration="6029000" />
-      <workItem from="1651236090041" duration="367000" />
+      <workItem from="1651236090041" duration="3599000" />
     </task>
     <servers />
   </component>
@@ -207,53 +367,61 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1651134294843" />
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1651139234934">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1651237524833">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1651139234934">
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1651237524833" />
+    <state width="1024" height="221" key="GridCell.Tab.0.bottom" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.0.center" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.0.left" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.1.bottom" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.0.right" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.1.center" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.1.bottom" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.1.left" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.1.center" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.1.right" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.1.left" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.2.bottom" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.1.right" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.2.center" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.2.bottom" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.2.left" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.2.center" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
-    <state width="1024" height="658" key="GridCell.Tab.2.right" timestamp="1651139234934">
+    <state width="1024" height="221" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.2.left" timestamp="1651241775760">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1651139234934" />
+    <state width="1024" height="221" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state width="1024" height="221" key="GridCell.Tab.2.right" timestamp="1651241775760">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="221" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1651241775760" />
+    <state x="360" y="19" key="new project wizard" timestamp="1651237538797">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="19" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1651237538797" />
   </component>
 </project>
