@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/thuchanh/demo" />
+        <option name="gradleJvm" value="15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/thuchanh/demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/thuchanh/qlkhachhang" />
+        <option name="gradleJvm" value="15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/thuchanh/qlkhachhang" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/thuchanh/spring_jpa" />
+        <option name="gradleJvm" value="15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/thuchanh/spring_jpa" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
