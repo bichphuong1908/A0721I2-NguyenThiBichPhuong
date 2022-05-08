@@ -23,242 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c388cbb-e8dd-4836-a6db-867bba626a00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/config/AppInitiallizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/formatter/StudentFormatter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/repository/StudentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/service/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/classes/java/main/vn/service/StudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/config/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/entity/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/formatter/StudentFormatter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/repository/StudentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/classes/vn/repository/StudentRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/byte-buddy-1.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-3.0.15.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/thymeleaf-spring4-3.0.15.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student_jsp/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/student_jsp/view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/WEB-INF/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/exploded/thymeleaf-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/libs/thymeleaf-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/build/resources/main/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/out/production/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/config/AppInitiallizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/formatter/StudentFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/repository/StudentRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/java/vn/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/webapp/WEB-INF/student/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/webapp/WEB-INF/student_jsp/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf5/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/out/production/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/config/AppInitiallizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/formatter/StudentFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/repository/StudentRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/java/vn/service/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/book/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/book/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/book/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student/view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student_jsp/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student_jsp/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/student_jsp/view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/WEB-INF/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/config/AppInitiallizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/model/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/repository/MusicRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/repository/MusicRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/service/MusicService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/java/com/codegym/listenMusic/service/MusicServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../ss5/baitap/listen_music/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.idea/ORM_JAP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/ss6_jpa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/qlkhachhang/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/qlkhachhang/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/spring_jpa/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/spring_jpa/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss3/baitap/product_management/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ss4/baitap/email/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ss4/baitap/email/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/ORM_JAP/ORM_JAP/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/thymeleaf6/bai6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/config/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/config/AppInitiallizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/controller/BlogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/model/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/repository/BlogRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/service/BlogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/service/BlogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/blog-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/config/AppInitiallizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/qlkhachhang/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/qlkhachhang/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/spring_jpa/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss6_jpa/thuchanh/spring_jpa/.gradle/checksums/checksums.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,6 +60,15 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
@@ -290,9 +90,130 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/codegym/vn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module4.1\ss6\baitap\blog\src\main\java\codegym\vn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.26">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blog [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : blog-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_blog" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58407" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : blog-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.blog [dependencies]" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.26" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.blog [dependencies]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -303,6 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651844264262</updated>
       <workItem from="1651844266167" duration="388000" />
+      <workItem from="1651973717256" duration="10277000" />
     </task>
     <servers />
   </component>
@@ -319,8 +241,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651976794307">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1651976794307" />
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1651975639160">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1651975639160" />
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1651983963503">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651983963503" />
+    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1651983963502">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651983963502" />
+    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1651983963502">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651983963502" />
+    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1651983963503">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651983963503" />
   </component>
 </project>
