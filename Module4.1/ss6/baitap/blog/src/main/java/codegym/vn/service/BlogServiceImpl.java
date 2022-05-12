@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class BlogServiceImpl implements BlogService{
@@ -28,10 +29,11 @@ public class BlogServiceImpl implements BlogService{
 
     @Override
     public void delete(long id) {
-        Blog blog = blogRepository.findById(id).orElse(null);
-        if (blog != null) {
-            blogRepository.delete(blog);
-        }
+        blogRepository.deleteById(id);
+//        Optional<Blog> blog = blogRepository.findById(id);
+////        if (blog != null) {
+////            blogRepository.delete(blog);
+////        }
     }
 
     @Override

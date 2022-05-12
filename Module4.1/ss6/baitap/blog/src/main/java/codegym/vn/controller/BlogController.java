@@ -9,6 +9,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
+import java.util.Optional;
+
 @Controller
 public class BlogController {
 
@@ -37,19 +39,38 @@ public class BlogController {
         blogService.create(blog);
         return "redirect:/blog";
     }
-//
-//    @GetMapping("/update/{id}")
-//    public String displayUpdate(Model model) {
-//        Blog blog = new Blog();
-//        model.addAttribute("blog", blog);
-//        return "/blog/update";
-//    }
-//
-//    @PostMapping("/update")
-//    public String update(@ModelAttribute("blog") Blog blog, Model model) {
-//        blogService.update(blog);
-//        return "redirect:/blog";
-//    }
+
+    @GetMapping("/update/{id}")
+    public ModelAndView showUpdateForm(@PathVariable Long id) {
+        Optional<Blog> blog = Optional.ofNullable(blogService.findById(id));
+        if (blog.isPresent()) {
+            ModelAndView modelAndView = new ModelAndView("/blog/update");
+            modelAndView.addObject("blog", blog.get());
+            return modelAndView;
+        } else {
+            ModelAndView modelAndView = new ModelAndView("/404");
+            return modelAndView;
+        }
+    }
+
+    @PostMapping("/update")
+    public String update(@ModelAttribute("blog") Blog blog) {
+        blogService.update(blog);
+        return "redirect:/blog";
+    }
+
+    @GetMapping("/delete/{id}")
+    public String delete(@PathVariable long id) {
+        blogService.delete(id);
+        return "/blog/delete";
+    }
+
+    @PostMapping("/delete")
+    public String delete(@ModelAttribute("blog") Blog blog) {
+        blogService.delete(blog.getId());
+        return "redirect:/blog";
+    }
+
 
 
 }
