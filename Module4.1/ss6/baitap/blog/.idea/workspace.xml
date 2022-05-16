@@ -23,23 +23,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c388cbb-e8dd-4836-a6db-867bba626a00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/blog2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/BlogApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/java/com/codegym/blog/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/resources/templates/blog/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/main/resources/templates/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss7/baitap/blog2/src/test/java/com/codegym/blog/BlogApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.sql" beforeDir="false" afterPath="$PROJECT_DIR$/blog.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/controller/BlogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/service/BlogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/codegym/vn/service/BlogServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/blog-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/blog-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/vn/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codegym/vn/service/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codegym/vn/service/BlogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/blog/update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
@@ -235,7 +239,8 @@
       <workItem from="1652171465810" duration="9000" />
       <workItem from="1652232826315" duration="7909000" />
       <workItem from="1652265733009" duration="401000" />
-      <workItem from="1652361259583" duration="2189000" />
+      <workItem from="1652361259583" duration="3725000" />
+      <workItem from="1652403221211" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -266,22 +271,30 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="574" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1652240480096" />
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1652363451308">
+    <state x="549" y="149" key="FileChooserDialogImpl" timestamp="1652363780063">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1652363451308" />
-    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1652363451308">
+    <state x="549" y="149" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1652363780063" />
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom" timestamp="1652367005463">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1652363451308" />
-    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1652363451308">
+    <state width="1024" height="658" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1652367005463" />
+    <state width="1024" height="658" key="GridCell.Tab.0.center" timestamp="1652367005463">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1652363451308" />
-    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1652363451308">
+    <state width="1024" height="658" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1652367005463" />
+    <state width="1024" height="658" key="GridCell.Tab.0.left" timestamp="1652367005463">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1652363451308" />
+    <state width="1024" height="658" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1652367005463" />
+    <state width="1024" height="658" key="GridCell.Tab.0.right" timestamp="1652367005463">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1024" height="658" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1652367005463" />
+    <state x="360" y="69" key="new project wizard" timestamp="1652363804595">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="69" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1652363804595" />
     <state x="545" y="167" key="refactoring.ChangeSignatureDialog" timestamp="1652101852247">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
