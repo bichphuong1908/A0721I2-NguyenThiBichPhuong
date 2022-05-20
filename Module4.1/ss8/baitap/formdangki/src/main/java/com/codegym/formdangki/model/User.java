@@ -13,12 +13,17 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+
     @NotEmpty
     @Size(min = 5,max = 45)
     private String firstName,lastName;
+
     private int phoneNumber;
+
     @Min(18)
+//    @NotEmpty(message = "Phải trên 18 tuổi")
     private int age;
+
     private String email;
 
     public long getId() {
