@@ -10,6 +10,4 @@ import java.util.List;
 
 public interface UserService {
     List<User> findAll();
-    Page<User> findAll(Pageable pageable);
-    void save(User user);
 }

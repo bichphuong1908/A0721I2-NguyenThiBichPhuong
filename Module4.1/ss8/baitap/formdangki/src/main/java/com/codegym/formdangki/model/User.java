@@ -21,7 +21,6 @@ public class User {
     private int phoneNumber;
 
     @Min(18)
-//    @NotEmpty(message = "Phải trên 18 tuổi")
     private int age;
 
     private String email;

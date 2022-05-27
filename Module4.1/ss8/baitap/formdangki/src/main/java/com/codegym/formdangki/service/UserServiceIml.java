@@ -18,13 +18,13 @@ public class UserServiceIml implements UserService{
         return userReposition.findAll();
     }
 
-    @Override
-    public Page<User> findAll(Pageable pageable) {
-        return userReposition.findAll(pageable);
-    }
-
-    @Override
-    public void save(User user) {
-        userReposition.save(user);
-    }
+//    @Override
+//    public Page<User> findAll(Pageable pageable) {
+//        return userReposition.findAll(pageable);
+//    }
+//
+//    @Override
+//    public void save(User user) {
+//        userReposition.save(user);
+//    }
 }
