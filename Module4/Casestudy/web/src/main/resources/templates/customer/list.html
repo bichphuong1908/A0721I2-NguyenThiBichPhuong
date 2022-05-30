@@ -100,7 +100,7 @@
     <th:block th:each="customer : ${customers}">
         <tr>
             <td th:text="${customer.id}"></td>
-            <td th:text="${customer.customerType.id}"></td>
+            <td th:text="${customer.customerType.name}"></td>
             <td th:text="${customer.name}"></td>
             <td th:text="${customer.birthday}"></td>
             <td th:text="${customer.gender}"></td>
