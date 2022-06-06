@@ -66,7 +66,9 @@ public class CustomerController {
     public ModelAndView showEditForm(@PathVariable Long id) {
         Optional<Customer> customer = customerService.findById(id);
         if (customer.isPresent()) {
+            List<CustomerType> customerTypes = (List<CustomerType>) customerTypeService.findAll();
             ModelAndView modelAndView = new ModelAndView("/customer/edit");
+            modelAndView.addObject("customerTpye", customerTypes);
             modelAndView.addObject("customer", customer.get());
             return modelAndView;
         } else {
