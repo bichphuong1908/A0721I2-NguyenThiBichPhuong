@@ -74,4 +74,16 @@ public class CustomerController {
         customerService.save(customer);
         return "redirect:/customer";
     }
+
+    @GetMapping("/delete/{id}")
+    public String delete(@PathVariable long id) {
+        customerService.delete(id);
+        return "redirect:/customer";
+    }
+
+    @PostMapping("/delete")
+    public String deleteCustomer(@ModelAttribute("customer") Customer customer) {
+        customerService.delete(customer.getId());
+        return "redirect:/customer";
+    }
 }
