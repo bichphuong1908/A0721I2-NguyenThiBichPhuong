@@ -1,6 +1,9 @@
 package com.codegym.webfrurama.model;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Pattern;
+import javax.validation.constraints.Size;
 
 @Entity
 public class Customer {
@@ -8,12 +11,22 @@ public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+
+    @NotEmpty(message = "Khong duoc de trong")
+    @Size(min = 0, max = 50, message ="ten phai tu 6 den 50 ki tu" )
     private String name;
+
     private String birthday;
     private String gender;
+
     private int idCard;
+
+    @Size(min = 9, max = 10, message = "Không đủ 10 số")
     private String phone;
+
+    @Pattern(regexp = "^[a-z][a-z0-9_\\.]{5,32}@[a-z0-9]{2,}(\\.[a-z0-9]{2,4}){1,2}$", message = "Email không đúng định dạng")
     private String email;
+
     private String address;
 
     @ManyToOne(targetEntity = CustomerType.class)
