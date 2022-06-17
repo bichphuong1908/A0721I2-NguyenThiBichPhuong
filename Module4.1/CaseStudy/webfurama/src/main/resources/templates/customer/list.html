@@ -47,10 +47,10 @@
             <td><a type="button" class="btn btn-primary" th:href="@{/edit/__${c.id}__ }">Edit</a></td>
 <!--            <td><a type="button" class="btn btn-warning"th:href="@{/delete/__${c.id}__ }">Delete</a></td>-->
             <td>
-                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#delete">Delete</button>
+                <button type="button" class="btn btn-warning" data-toggle="modal" th:attr="data-target=${'#delete'+c.id}" data-target="#delete">Delete</button>
             </td>
 
-            <td class="modal fade" id="delete" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            <td class="modal fade" th:id="${'delete'+c.id}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
                 aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <form th:action="@{/delete/{id}(id=${c.id})}" class="modal-content">

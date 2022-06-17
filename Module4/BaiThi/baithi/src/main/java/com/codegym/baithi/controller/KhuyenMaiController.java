@@ -9,12 +9,11 @@ import org.springframework.data.web.PageableDefault;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import javax.validation.Valid;
-import java.util.List;
 import java.util.Optional;
 
 @Controller
@@ -28,16 +27,28 @@ public class KhuyenMaiController {
     }
 
     @GetMapping("/khuyenMai")
+//    public ModelAndView listKhuyenMai(@PageableDefault(size = 3) Pageable pageable, @RequestParam("search") Optional<String> search){
+//        Page<KhuyenMai> khuyenMais;
+//        if(search.isPresent()){
+//            khuyenMais = khuyenMaiService.findAllByMucGiamGiaContaining(search.get(), pageable);
+//        }
+//        else khuyenMais = khuyenMaiService.findAll(pageable);
+//        ModelAndView modelAndView = new ModelAndView("/khuyenMai/list");
+//        modelAndView.addObject("khuyenMai", khuyenMais);
+//        return modelAndView;
+//    }
     public ModelAndView listKhuyenMai(@PageableDefault(size = 3) Pageable pageable, @RequestParam("search") Optional<String> search){
         Page<KhuyenMai> khuyenMais;
         if(search.isPresent()){
             khuyenMais = khuyenMaiService.findAllByMucGiamGiaContaining(search.get(), pageable);
+        } else {
+            khuyenMais = khuyenMaiService.findAll(pageable);
         }
-        else khuyenMais = khuyenMaiService.findAll(pageable);
         ModelAndView modelAndView = new ModelAndView("/khuyenMai/list");
         modelAndView.addObject("khuyenMai", khuyenMais);
         return modelAndView;
     }
+
 
     @GetMapping("/create")
     public ModelAndView showCreateForm() {
@@ -46,9 +57,10 @@ public class KhuyenMaiController {
         return modelAndView;
     }
 
+
     @PostMapping("/save")
-    public String saveKhuyenMai(@Valid @ModelAttribute("khuyenMai") KhuyenMai khuyenMai, BindingResult bindingResult, RedirectAttributes redirectAttributes) {
-        if (bindingResult.hasErrors()){
+    public String saveKhuyenMai(@Validated @ModelAttribute("khuyenMai") KhuyenMai khuyenMai, BindingResult bindingResult, RedirectAttributes redirectAttributes, Model model) {
+        if (bindingResult.hasFieldErrors()){
             return "/khuyenMai/create";
         }else {
             khuyenMaiService.save(khuyenMai);

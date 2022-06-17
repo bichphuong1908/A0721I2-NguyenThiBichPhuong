@@ -19,7 +19,7 @@ public class KhuyenMai {
 
     private Date thoiGianKetThuc;
 
-    @NotNull(message = "không đúng")
+    @NotNull(message = "không đđược thấy hơn 10000")
     @Min(value = 10000, message = "thap quá")
     private Long mucGiamGia;
 

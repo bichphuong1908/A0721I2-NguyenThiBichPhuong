@@ -17,7 +17,7 @@
 
 </p>
 <form>
-    Search by first mức Giảm giá:
+    Tìm kiếm mức Giảm giá:
     <input name="search" type="text"/>
     <input class="btn btn-primary" type="submit" value="Search"/>
 </form>
@@ -34,26 +34,25 @@
         <th>Sửa</th>
         <th>Xóa</th>
     </tr>
-    <th:block th:each="kh ,count : ${khuyenMai}">
+    <th:block th:each="p ,count : ${promotions}">
         <tr>
             <td th:text="${count.count}"></td>
-            <td th:text="${kh.tieuDe}"></td>
-            <td th:text="${kh.thoiGianBatDau}"></td>
-            <td th:text="${kh.thoiGianKetThuc}"></td>
-            <td th:text="${kh.mucGiamGia}"></td>
-            <td th:text="${kh.chiTiet}"></td>
+            <td th:text="${p.title}"></td>
+            <td th:text="${p.startTime}"></td>
+            <td th:text="${p.endTime}"></td>
+            <td th:text="${p.discount}"></td>
+            <td th:text="${p.detail}"></td>
             <td>
-                <a type="button" class="btn btn-primary" th:href="@{/edit/__${kh.id}__ }">Sửa</a>
+                <a type="button" class="btn btn-primary" th:href="@{/edit/__${p.id}__ }">Sửa</a>
 <!--                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#delete">Xóa</button>-->
             </td>
             <td>
-                <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#delete">Xóa</button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" th:attr="data-target=${'#delete'+p.id}" data-target="#delete">Xóa</button>
             </td>
-
-            <td class="modal fade" id="delete" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            <td class="modal fade" th:id="${'delete'+p.id}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
                 aria-hidden="true">
                 <div class="modal-dialog" role="document">
-                    <form th:action="@{/delete/{id}(id=${kh.id})}" class="modal-content">
+                    <form th:action="@{/delete/__${p.id}__}" class="modal-content">
                         <div class="modal-header">
                             <h5 class="modal-title" id="delete">Delete</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -64,8 +63,8 @@
                             <p>Bạn có muốn xóa không ?</p>
                         </div>
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="submit" class="btn btn-secondary">Delete</button>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                            <button type="submit" class="btn btn-secondary">Xóa</button>
                         </div>
                     </form>
                 </div>
@@ -74,9 +73,9 @@
     </th:block>
 </table>
 <div>
-    <a th:href="@{'/khuyenMai'(page=${khuyenMai.number - 1})}" th:if="${khuyenMai.hasPrevious()}">Previous</a>
-    <span th:text="${khuyenMai.number + 1}"></span>/<span th:text="${khuyenMai.totalPages}"></span>
-    <a th:href="@{'/khuyenMai'(page=${khuyenMai.number + 1})}" th:if="${khuyenMai.hasNext()}">Next</a>
+    <a th:href="@{'/khuyenMai'(page=${promotions.number - 1})}" th:if="${promotions.hasPrevious()}">Previous</a>
+    <span th:text="${promotions.number + 1}"></span>/<span th:text="${promotions.totalPages}"></span>
+    <a th:href="@{'/khuyenMai'(page=${promotions.number + 1})}" th:if="${promotions.hasNext()}">Next</a>
 </div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"

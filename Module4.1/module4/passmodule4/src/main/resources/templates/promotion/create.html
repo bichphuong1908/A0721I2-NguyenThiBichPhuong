@@ -7,51 +7,60 @@
 </head>
 <body>
 <h3>Thêm khuyến mãi</h3>
-<!--<p>-->
-<!--    <a href="/khuyenMai/">Quay lại</a>-->
-<!--</p>-->
 <th:block th:if="${message}">
     <p th:text="${message}"></p>
 </th:block>
 <div class="col-5">
-    <form th:action = "@{/save}" method="post" th:object="${khuyenMai}">
+    <form th:action = "@{/save}" method="post" th:object="${promotion}">
         <div class="container">
             <div class="form-group">
                 <label>Tiêu đề: </label>
-                <input class="form-control" type="text" th:field="*{tieuDe}">
+                <input class="form-control" type="text" th:field="*{title}">
+            </div>
+            <div>
+                <p class="text-danger" th:if="${#fields.hasErrors('title')}" th:errors="*{title}">Tiêu đề Error</p>
             </div>
         </div>
         <div class="container">
             <div class="form-group">
                 <label>Thời gia bắt đầu: </label>
-                <input class="form-control" type="date" th:field="*{thoiGianBatDau}">
+                <input class="form-control" type="date" th:field="*{startTime}">
+            </div>
+            <div>
+                <p class="text-danger" th:if="${#fields.hasErrors('startTime')}" th:errors="*{startTime}">startTime Error</p>
             </div>
         </div>
         <div class="container">
             <div class="form-group">
                 <label>Thời gia kết thúc: </label>
-                <input class="form-control" type="date" th:field="*{thoiGianKetThuc}">
+                <input class="form-control" type="date" th:field="*{endTime}">
+            </div>
+            <div>
+                <p class="text-danger" th:if="${#fields.hasErrors('endTime')}" th:errors="*{endTime}">endTime Error</p>
             </div>
         </div>
         <div class="container">
             <div class="form-group">
                 <label>Mức giảm giá: </label>
-                <input class="form-control" type="text" th:field="*{mucGiamGia}">
+                <input class="form-control" type="text" th:field="*{discount}">
             </div>
             <div>
-                <p class="text-danger" th:if="${#fields.hasErrors('mucGiamGia')}" th:errors="*{mucGiamGia}">Name Error</p>
+                <p class="text-danger" th:if="${#fields.hasErrors('discount')}" th:errors="*{discount}">discount Error</p>
             </div>
         </div>
         <div class="container">
             <div class="form-group">
                 <label>Chi tiết: </label>
-                <textarea rows="5" cols="30" class="form-control" type="text" th:field="*{chiTiet}"></textarea>
+                <textarea rows="5" cols="30" class="form-control" type="text" th:field="*{detail}"></textarea>
+            </div>
+            <div>
+                <p class="text-danger" th:if="${#fields.hasErrors('detail')}" th:errors="*{detail}">detail Error</p>
             </div>
         </div>
 
 
         <input class="btn btn-primary" type="submit" value=Thêm mới>
-            <a class="btn btn-warning" href="/khuyenMai/">Quay lại</a>
+            <a class="btn btn-warning" href="/promotion/">Quay lại</a>
     </form>
 
 </div>

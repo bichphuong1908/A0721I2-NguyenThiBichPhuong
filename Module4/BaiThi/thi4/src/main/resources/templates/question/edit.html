@@ -14,7 +14,7 @@
     <p th:text="${message}"></p>
 </th:block>
 <div class="col-5">
-    <form th:action = "@{/question/edit-question}" method="post" th:object="${question}">
+    <form th:action = "@{/question/edit}" method="post" th:object="${question}">
         <div class="container">
             <div class="form-group">
                 <label>Tiêu đề: </label>
@@ -30,7 +30,10 @@
         <div class="container">
             <div class="form-group">
                 <label>Loại câu hỏi: </label>
-                <input class="form-control" type="text" th:field="*{questionType.name}">
+<!--                <input class="form-control" type="text" th:field="*{questionType.name}">-->
+                <select  th:field="*{questionType}">
+                    <option th:each="questionType : ${questionType}" th:text="${questionType.name}" th:value="${questionType.id}"></option>
+                </select>
             </div>
         </div>
 
