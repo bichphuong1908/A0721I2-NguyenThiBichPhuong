@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06574124-216b-4b05-b706-35f17c880751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Module4.1/module4/passmodule4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module4.1/module4/thimodule4/thimodule4/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module4/BaiThi/thi4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/.idea/TypscriptProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/Hello.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/dist/Hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/TypscriptProject/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/.idea/calculate-the-Fibonacci-sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap/calculate-the-Fibonacci-sum/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/.idea/typescript-control-flow-and-loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-control-flow-and-loop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/.idea/typescript-is-prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-is-prime/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/typescript-promise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/.idea/typescript-shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/IArea.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/IArea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/IArea.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Rectangle.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Rectangle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Shape.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Shape.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/Shape.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/src/IArea.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/src/Rectangle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/src/Shape.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-shape/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/.idea/typescript-variable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript-variable/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4.1/CaseStudy/webfurama.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4.1/CaseStudy/webfurama.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/BaiThi/thi4.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2AqNiWtcT7KFlHXwfphcQWc3b5m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../JetBrains/Webstorm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss2\typescript-promise\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06574124-216b-4b05-b706-35f17c880751" name="Default Changelist" comment="" />
+      <created>1655733282464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655733282464</updated>
+      <workItem from="1655733283745" duration="542000" />
+      <workItem from="1655733892257" duration="739000" />
+      <workItem from="1655903973860" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
