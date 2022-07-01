@@ -20,7 +20,8 @@ export class TemplateFormStudentComponent implements OnInit {
   }
 
   onSubmit(CreateStudentForm: NgForm) {
-    console.log(CreateStudentForm.value) // .value là hiển thị rõ ràng hơn
+    // console.log(CreateStudentForm.value) // .value là hiển thị rõ ràng hơn
+    console.log(this.student);
 
   }
 }
