@@ -1,0 +1,31 @@
+<h2>Creat Student</h2>
+<div class="container">
+  <div class="col-5">
+    <form #CreateStudentForm = "ngForm"
+          (ngSubmit)="onSubmit(CreateStudentForm)"
+    >
+      <div class="form-group">
+        <label for="StudentCode">Student Code</label>
+        <input
+           [ngModel] = "student.StudentCode"
+           name="StudentCode"
+           type="text" class="form-control" id="StudentCode" aria-describedby="student" placeholder="student code">
+      </div><br>
+      <div class="form-group">
+        <label for="StudentName">Student Name</label>
+        <input
+          [ngModel] = "student.StudentName"
+          name="StudentName"
+          type="text" class="form-control" id="StudentName" placeholder="student name">
+      </div><Br>
+      <div class="form-group">
+        <label for="StudentAddress">Student Address</label>
+        <input
+          [ngModel] = "student.StudentAddress"
+          name="StudentAddress"
+          type="text" class="form-control" id="StudentAddress" placeholder="student address">
+      </div><Br>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</div>

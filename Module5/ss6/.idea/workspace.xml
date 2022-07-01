@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8527edc-e739-4506-9a7b-0c96d3c7088e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/calculator/calculator.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/calculator/calculator.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/calculator/calculator.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/app/calculator/calculator.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss3/baitap/calculator-app-cach2/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/.idea/thuchanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/name-card/name-card.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/name-card/name-card.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/name-card/name-card.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/app/name-card/name-card.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-name-card/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/progress-bar/progress-bar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/progress-bar/progress-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/progress-bar/progress-bar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/app/progress-bar/progress-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss5/thuchanh/angular-progress-bar/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ss6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/template-form-student/template-form-student.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/template-form-student/template-form-student.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/template-form-student/template-form-student.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/app/template-form-student/template-form-student.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-form/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss3/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/calculator/calculator.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/calculator/calculator.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/calculator/calculator.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/app/calculator/calculator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss3/baitap/angular-calculator-app/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss4/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss4/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss4/baitap/angular-hackernews/src/app/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss4/baitap/angular-hackernews/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss4/thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss4/thuchanh/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BLFaebOH25Tm7AoZcXl8z7JoJU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss6\template-form\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8527edc-e739-4506-9a7b-0c96d3c7088e" name="Default Changelist" comment="" />
+      <created>1656677523454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656677523454</updated>
+      <workItem from="1656677524938" duration="3732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

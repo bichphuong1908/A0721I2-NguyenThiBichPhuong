@@ -2,97 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d880a3ce-d801-4213-a2ac-b6c9859d13c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/baitap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/footer/footer.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/footer/footer.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/footer/footer.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/footer/footer.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-hackernews/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/thuchanh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/article.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/article/article.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/article/article.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/article/article.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/article/article.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/like/like.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/like/like.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/like/like.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/app/like/like.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-hackernews-app/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss3/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-hackernews/src/app/navbar/navbar.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656577854808</updated>
       <workItem from="1656577856230" duration="2045000" />
+      <workItem from="1656579948922" duration="898000" />
     </task>
     <servers />
   </component>
@@ -151,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
