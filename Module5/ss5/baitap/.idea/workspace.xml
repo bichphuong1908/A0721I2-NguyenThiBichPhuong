@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82ed63ca-7efd-4761-b803-846039ad88aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/ss5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/irating-unit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2BO3MTbiy1WksAPVdFMq9XzqsDo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss5\baitap\angular-rating-bar\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ed63ca-7efd-4761-b803-846039ad88aa" name="Default Changelist" comment="" />
+      <created>1656763256266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656763256266</updated>
+      <workItem from="1656763258032" duration="2740000" />
+      <workItem from="1656766039760" duration="227000" />
+      <workItem from="1656766489339" duration="175000" />
+      <workItem from="1656767709155" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
