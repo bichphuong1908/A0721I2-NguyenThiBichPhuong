@@ -2,55 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ed63ca-7efd-4761-b803-846039ad88aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/ss5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/baitap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/irating-unit.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/app/rating-bar-component/rating-bar-component.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-rating-bar/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countdown-time/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,16 +63,53 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.0.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss5\baitap\angular-rating-bar\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss5\baitap\countdown-time\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Karma.AppComponent.should have as title 'countdown-time'">
+    <configuration name="AppComponent.should create the app" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/countdown-time/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/countdown-time/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$/countdown-time" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file-path value="$PROJECT_DIR$/countdown-time/src/app/app.component.spec.ts" />
+      <test-names>
+        <test-name value="AppComponent" />
+        <test-name value="should create the app" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppComponent.should have as title 'countdown-time'" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/countdown-time/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/countdown-time/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$/countdown-time" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file-path value="$PROJECT_DIR$/countdown-time/src/app/app.component.spec.ts" />
+      <test-names>
+        <test-name value="AppComponent" />
+        <test-name value="should have as title 'countdown-time'" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Karma.AppComponent.should have as title 'countdown-time'" />
+        <item itemvalue="Karma.AppComponent.should create the app" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,6 +123,7 @@
       <workItem from="1656766039760" duration="227000" />
       <workItem from="1656766489339" duration="175000" />
       <workItem from="1656767709155" duration="208000" />
+      <workItem from="1656768784607" duration="1379000" />
     </task>
     <servers />
   </component>
