@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d42c6fe0-0324-42c7-b8d2-3dd03e40a2b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-login/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-registration-form/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/todo/todo.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/todo/todo.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/todo/todo.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/app/todo/todo.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/angular-name-card/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5/baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss5/baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss5/baitap/countdown-time/src/app/countdown/countdown.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss5/baitap/countdown-time/src/app/countdown/countdown.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template-form/src/app/template-form-student/template-form-student.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../template-form/src/app/template-form-student/template-form-student.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template-form/src/app/template-form-student/template-form-student.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../template-form/src/app/template-form-student/template-form-student.component.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2BY8RYsX1CkD9d425XdnMzSZXN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss6\baitap\create-registration-form\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d42c6fe0-0324-42c7-b8d2-3dd03e40a2b0" name="Default Changelist" comment="" />
+      <created>1657071651761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657071651761</updated>
+      <workItem from="1657071653260" duration="1268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

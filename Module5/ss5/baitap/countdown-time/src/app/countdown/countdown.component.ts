@@ -8,7 +8,7 @@ import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 export class CountdownComponent implements OnInit {
 
   @Input()
-  seconds = 10;
+  seconds = 11;
   @Output()
   finish = new EventEmitter<boolean>();
   remainingTime: number;

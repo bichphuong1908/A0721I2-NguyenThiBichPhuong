@@ -2,45 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ed63ca-7efd-4761-b803-846039ad88aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/countdown-time/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown-time/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/todo/todo.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/todo/todo.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/todo/todo.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/app/todo/todo.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss6/thuchanh/angular-name-card/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/demo/demo_ss14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/countdown-time/src/app/countdown/countdown.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +69,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.0.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ss6" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss5\baitap\countdown-time\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\Codegym\A0721I2-NguyenThiBichPhuong\Module5\ss5\baitap\angular-rating-bar\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Karma.AppComponent.should have as title 'countdown-time'">
@@ -124,6 +127,9 @@
       <workItem from="1656766489339" duration="175000" />
       <workItem from="1656767709155" duration="208000" />
       <workItem from="1656768784607" duration="1379000" />
+      <workItem from="1656938296556" duration="612000" />
+      <workItem from="1656938933907" duration="2872000" />
+      <workItem from="1657006810220" duration="22000" />
     </task>
     <servers />
   </component>
