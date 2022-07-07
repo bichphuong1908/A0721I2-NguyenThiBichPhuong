@@ -2,7 +2,7 @@
   <h2>Đăng Nhập</h2>
   <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" novalidate>
     <div class="form-group col-md-6">
-      <label style="margin-right: 500rem; font-size: 1.5rem" for="email" ng-pattern="/^.+@gmail\.com$/">Email: </label>
+      <label style="margin-right: 500rem; font-size: 1.5rem" for="email">Email: </label>
       <input type="text" class="form-control" id="email" name="email" formControlName="email">
     </div>
     <div *ngIf="!loginForm.controls.email?.valid && (loginForm.controls.email?.dirty || loginForm.controls.email?.touched)">
