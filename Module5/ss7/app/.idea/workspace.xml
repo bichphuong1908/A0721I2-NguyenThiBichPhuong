@@ -29,7 +29,6 @@
       <change afterPath="$PROJECT_DIR$/../baitap/.idea/baitap.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitap/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitap/dictionar-lookup-application/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitap/dictionar-lookup-application/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitap/dictionar-lookup-application/README.md" afterDir="false" />
@@ -74,7 +73,6 @@
       <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/thuchanh.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thuchanh/angular-playList-app/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thuchanh/angular-playList-app/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thuchanh/angular-playList-app/README.md" afterDir="false" />
@@ -206,6 +204,8 @@
       <change beforePath="$PROJECT_DIR$/../../ss6/baitap/angular-login/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/baitap/angular-login/src/app/login/login.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ss6/baitap/create-registration-form/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/baitap/create-registration-form/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ss6/baitap/create-registration-form/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/baitap/create-registration-form/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
