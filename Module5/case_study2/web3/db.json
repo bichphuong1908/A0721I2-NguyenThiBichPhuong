@@ -1,0 +1,48 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "Nguyên",
+      "dateOfBirth": "2022-05-21",
+      "idCard": "123456788",
+      "phoneNumber": "0999555678",
+      "email": "nguyen123@gmail.com",
+      "salary": "3200000",
+      "employeeType": {
+        "id": 3,
+        "degree": "University"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Thai",
+      "dateOfBirth": "2022-03-19",
+      "idCard": "123556788",
+      "phoneNumber": "0904555678",
+      "email": "thai333@gmail.com",
+      "salary": "2100000",
+      "employeeType": {
+        "id": 1,
+        "degree": "Intermediate"
+      }
+    }
+  ],
+  "employeeType": [
+    {
+      "id": 1,
+      "degree": "Intermediate"
+    },
+    {
+      "id": 2,
+      "degree": "College"
+    },
+    {
+      "id": 3,
+      "degree": "University"
+    },
+    {
+      "id": 4,
+      "degree": "After university"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+<div class="container">
+  <h1>CREATE NEW EMPLOYEE</h1>
+  <form [formGroup]="createForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <!--      <div class="form-group col-md-6">-->
+      <!--        <label >Id</label>-->
+      <!--        <input type="text" class="form-control" formControlName="id" >-->
+      <!--      </div>-->
+
+      <label>Name</label>
+      <input type="text" class="form-control" formControlName="name">
+    </div>
+    <div *ngIf="!createForm.controls.name?.valid && (createForm.controls.name?.dirty || createForm.controls.name?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất 5 kí tự</p>
+    </div>
+
+    <div class="form-group">
+      <label >Email</label>
+      <input type="text" class="form-control" formControlName="email">
+    </div>
+    <div *ngIf="!createForm.controls.email?.valid && (createForm.controls.email?.dirty || createForm.controls.name?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">Không đúng định dạng</p>
+    </div>
+
+    <div class="form-group">
+      <label>Date Of Birth</label>
+      <input type="date" class="form-control" formControlName="dateOfBirth" >
+    </div>
+    <div *ngIf="!createForm.controls.dateOfBirth?.valid && (createForm.controls.dateOfBirth?.dirty || createForm.controls.dateOfBirth?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">Không được để trống</p>
+    </div>
+
+    <div class="form-group">
+      <label>Employee Type</label>
+      <select  class="form-control" formControlName="employeeType">
+        <option *ngFor="let items of employeeTypes" [ngValue]="items">{{items.degree}}</option>
+      </select>
+    </div>
+    <div *ngIf="!createForm.controls.employeeType?.valid && (createForm.controls.employeeType?.dirty || createForm.controls.employeeType?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">Không được để trống</p>
+    </div>
+
+    <div class="form-group">
+      <label >Id Card</label>
+      <input type="text" class="form-control" formControlName="idCard" >
+    </div>
+    <div *ngIf="!createForm.controls.idCard?.valid && (createForm.controls.idCard?.dirty || createForm.controls.idCard?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">Định dạng là số nguyên</p>
+    </div>
+
+    <div class="form-group">
+      <label >Phone Number</label>
+      <input type="text" class="form-control" formControlName="phoneNumber">
+    </div>
+    <div *ngIf="!createForm.controls.phoneNumber?.valid && (createForm.controls.phoneNumber?.dirty || createForm.controls.phoneNumber?.touched)">
+      <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất là 9 số</p>
+    </div>
+
+    <div class="form-group">
+      <label >Salary</label>
+      <input type="text" class="form-control" formControlName="salary" >
+    </div>
+    <div *ngIf="!createForm.controls.salary?.valid && (createForm.controls.salary?.dirty || createForm.controls.salary?.touched)">
+      <p class="form-group col-md-12" style="margin-right: 600px; color: red">Không được để trống</p>
+    </div>
+
+    <button type="submit" class="btn btn-primary" >CREATE</button>
+  </form>
+</div>
+
+

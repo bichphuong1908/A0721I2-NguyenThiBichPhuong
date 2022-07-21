@@ -1,0 +1,38 @@
+{
+  "customers": [
+    {
+      "name": "Le Son Thien Hau",
+      "dateOfBirthday": "1993-05-15",
+      "gender": "Male",
+      "nationalId": "201671808",
+      "phone": "0935238671",
+      "email": "thienhaudn@gmail.com",
+      "customerType": "Diamond",
+      "address": "Da Nang",
+      "serviceId": 1,
+      "id": 1
+    },
+    {
+      "name": "Ho Thi Phuong",
+      "dateOfBirthday": "1996-12-11",
+      "gender": "Famale",
+      "nationalId": "12398109283",
+      "phone": "098724384",
+      "email": "adjhkjH@gmail.com",
+      "customerType": "Platinum",
+      "address": "Nghe An",
+      "serviceId": "2",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

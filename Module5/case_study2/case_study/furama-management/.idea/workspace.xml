@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc638adc-74ec-43fe-a041-d91a9eefe747" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-create/contract-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-create/contract-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-create/contract-create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-create/contract-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-list/contract-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-list/contract-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-list/contract-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/contract/contract-list/contract-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-create/customer-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-create/customer-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-create/customer-create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-create/customer-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-edit/customer-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-edit/customer-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-edit/customer-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-edit/customer-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-list/customer-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-list/customer-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-list/customer-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/customer/customer-list/customer-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chi-tiet-dich-vu/chi-tiet-dich-vu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chi-tiet-dich-vu/chi-tiet-dich-vu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chi-tiet-dich-vu/chi-tiet-dich-vu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chi-tiet-dich-vu/chi-tiet-dich-vu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chinh-sua-dich-vu/chinh-sua-dich-vu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chinh-sua-dich-vu/chinh-sua-dich-vu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chinh-sua-dich-vu/chinh-sua-dich-vu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/chinh-sua-dich-vu/chinh-sua-dich-vu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/danh-sach-dich-vu/danh-sach-dich-vu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/danh-sach-dich-vu/danh-sach-dich-vu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/danh-sach-dich-vu/danh-sach-dich-vu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/danh-sach-dich-vu/danh-sach-dich-vu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/tao-dich-vu/tao-dich-vu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/tao-dich-vu/tao-dich-vu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/tao-dich-vu/tao-dich-vu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/tao-dich-vu/tao-dich-vu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/xoa-dich-vu/xoa-dich-vu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/xoa-dich-vu/xoa-dich-vu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/xoa-dich-vu/xoa-dich-vu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/dichvu/xoa-dich-vu/xoa-dich-vu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/model/contract.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/model/customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/model/service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/contract.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/contract.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/customer.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/customer.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/service.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/app/service/service.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../case_study/case-study/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/case_study2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-create/customer-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-create/customer-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-create/customer-create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-create/customer-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-delete/customer-delete.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-delete/customer-delete.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-delete/customer-delete.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-delete/customer-delete.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-edit/customer-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-edit/customer-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-edit/customer-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-edit/customer-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-list/customer-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-list/customer-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-list/customer-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-list/customer-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-search/customer-search.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-search/customer-search.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-search/customer-search.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/component/customer/customer-search/customer-search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/data/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/customer-type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/model/customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/service/customer-type.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/service/customer-type.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/service/customer.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/service/customer.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/db-1657619843106.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-create/customers-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-create/customers-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-create/customers-create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-create/customers-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-list/customers-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-list/customers-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-list/customers-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/customers/customers-list/customers-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/model/customers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/service/customer.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/app/service/customer.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/db-1657789429794.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/custome-create/custome-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/custome-create/custome-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/custome-create/custome-create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/custome-create/custome-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-delete/customer-delete.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-delete/customer-delete.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-delete/customer-delete.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-delete/customer-delete.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-edit/customer-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-edit/customer-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-edit/customer-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-edit/customer-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-list/customer-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-list/customer-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-list/customer-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/customer/customer-list/customer-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/model/customer-type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/model/customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/service/customer-type.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/service/customer-type.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/service/customer.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/app/service/customer.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web2/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/service/todo.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/service/todo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo-edit/todo-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo-edit/todo-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo-edit/todo-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo-edit/todo-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo/todo.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo/todo.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo/todo.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/app/todo/todo.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-name-card/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/service/todo.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/service/todo.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo-edit/todo-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo-edit/todo-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo-edit/todo-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo-edit/todo-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo/todo.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo/todo.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo/todo.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/app/todo/todo.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/baitap/angular-todo-app/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ss8/thuchanh/.idea/thuchanh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/demo/demo_ss14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss1_spring_mvc/thuchanh/customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module4/ss2_spring_controller/thuchanh/customer-management" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2BtIGVf3nKkr8AzwCx1arDn2sWD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../web2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc638adc-74ec-43fe-a041-d91a9eefe747" name="Default Changelist" comment="" />
+      <created>1657718859233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657718859233</updated>
+      <workItem from="1657718860835" duration="3100000" />
+      <workItem from="1657761995402" duration="13224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

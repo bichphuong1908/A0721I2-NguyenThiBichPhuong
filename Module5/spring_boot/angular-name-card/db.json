@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ma_sv": "102110130",
+      "name": "Nguyen Van A",
+      "ten_nhom": "Nhóm 2",
+      "title": "Nghiên cứu khoa học",
+      "giao_vien": "Trần Trọng Tưởng",
+      "email": "an123@gmail.com",
+      "phoneNumber": "0905678332"
+    },
+    {
+      "id": 2,
+      "ma_sv": "102110320",
+      "name": "Nguyen Duc An",
+      "ten_nhom": "Nhóm 3",
+      "title": "Tin Học",
+      "giao_vien": "Trần Văn Sơn",
+      "email": "son123@gmail.com",
+      "phoneNumber": "0905438332"
+    },
+    {
+      "id": 4,
+      "ma_sv": "102110135",
+      "name": "Nguyen Thi Anh Tuyet",
+      "ten_nhom": "Nhóm 2",
+      "title": "Nghiên cứu khoa học",
+      "giao_vien": "Trần Trọng Tưởng",
+      "email": "anhtuyet@gmail.com",
+      "phoneNumber": "0906324456"
+    }
+  ]
+}

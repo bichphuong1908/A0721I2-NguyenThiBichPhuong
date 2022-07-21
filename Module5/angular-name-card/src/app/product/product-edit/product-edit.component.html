@@ -1,0 +1,100 @@
+<div class="container-xl mt-5">
+  <div class="table-responsive">
+    <div class="table-wrapper">
+      <div class="table-title">
+        <div>
+          <div class="modal-content mt-5">
+            <form [formGroup]="formEdit" (ngSubmit)="editForm(id)" *ngIf="formEdit">
+              <div class="modal-header">
+                <h4 class="modal-title text-primary">Sửa thông tin sinh viên</h4>
+              </div>
+              <div class="modal-body">
+                <table>
+                  <tr>
+                    <td>STT</td>
+                    <td><input style="width: 300px" type="text" formControlName="id" disabled></td>
+                  </tr>
+                  <tr>
+                    <td>Mã Sinh Viên</td>
+                    <td><input style="width: 300px" type="text" formControlName="ma_sv" ></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.ma_sv?.valid && (formEdit.controls.ma_sv?.dirty || formEdit.controls.ma_sv?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">Không được để trống</p>
+                  </div>
+                  <tr>
+                    <td>Tên Sinh Viên</td>
+                    <td><input type="text" style="width: 300px" formControlName="name" ></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.name?.valid && (formEdit.controls.name?.dirty || formEdit.controls.name?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất 5 kí tự</p>
+                  </div>
+                  <tr>
+                    <td>Tên Nhóm</td>
+                    <td><input style="width: 300px" type="text" formControlName="ten_nhom" ></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.ten_nhom?.valid && (formEdit.controls.ten_nhom?.dirty || formEdit.controls.ten_nhom?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất 5 kí tự</p>
+                  </div>
+                  <tr>
+                    <td>Tên Đề Tài</td>
+                    <td><input style="width: 300px" type="text" formControlName="title"></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.title?.valid && (formEdit.controls.title?.dirty || formEdit.controls.title?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất 5 kí tự</p>
+                  </div>
+                  <tr>
+                    <td>Giáo Viên Hướng Dẫn</td>
+                    <td><input style="width: 300px" type="text" formControlName="giao_vien"></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.giao_vien?.valid && (formEdit.controls.giao_vien?.dirty || formEdit.controls.giao_vien?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">Không được để trống</p>
+                  </div>
+                  <tr>
+                    <td>Email</td>
+                    <td><input style="width: 300px" type="text" formControlName="email"></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.email?.valid && (formEdit.controls.email?.dirty || formEdit.controls.email?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">Đúng định dạng abc@def.com</p>
+                  </div>
+                  <tr>
+                    <td>Số Điện Thoại</td>
+                    <td><input style="width: 300px" type="text" formControlName="phoneNumber"></td>
+                  </tr>
+                  <div *ngIf="!formEdit.controls.phoneNumber?.valid && (formEdit.controls.phoneNumber?.dirty || formEdit.controls.phoneNumber?.touched)">
+                    <p class="form-group col-md-7" style="margin-right: 600px; color: red">ít nhất là 10 số, nhiều nhất là 12</p>
+                  </div>
+                  <tr>
+                    <td></td>
+                    <td>
+                      <button class="btn btn-warning" [disabled]="!formEdit.valid">Sửa</button>
+<!--                      <a class="btn btn-info m-2" routerLink="/products/list">Trở lại trang danh sách</a>-->
+                      <a class="btn btn-info m-2" data-bs-toggle="modal" [attr.data-bs-target]="'#backList' + id">Trở lại trang danh sách</a>
+                      <!-- Modal -->
+                      <div class="modal" [id]="'backList' + id" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLabel">Xác nhận</h5>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                              Bạn có muốn trở về danh sách
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Không</button>
+                              <button type="button" class="btn btn-primary" data-bs-dismiss="modal" (click)="back()">Có</button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
